@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".SplashScreen"
+    android:background="@color/colorYellow">
+
+
+    <ImageView
+        android:id="@+id/splash_screen_logo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="210dp"
+        android:src="@drawable/ek_cutting_logo" />
+
+    <TextView
+        android:id="@+id/splash_screen_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_below="@id/splash_screen_logo"
+        android:fontFamily="@font/yatra_one_regular"
+        android:gravity="center_horizontal"
+        android:text="@string/ss_name"
+        android:textSize="50sp"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:id="@+id/splash_screen_tagline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_below="@id/splash_screen_name"
+        android:fontFamily="@font/yatra_one_regular"
+        android:gravity="center_horizontal"
+        android:text="@string/ss_tagline"
+        android:textSize="20sp"
+     />
+
+    <TextView
+        android:id="@+id/text_dev_by"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="100dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:fontFamily="@font/signika"
+        android:gravity="center_horizontal"
+        android:text="@string/devby" />
+
+
+
+
+
+
+</RelativeLayout>
+
+
+
+

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attr_name">
+        <item>Tea Image</item>
+        <item>Coffee Image</item>
+        <item>Pizza Image</item>
+        <item>Pasta Image</item>
+        <item>Frankie Image</item>
+        <item>Sandwich Image</item>
+        <item>Burger Image</item>
+        <item>Momos Image</item>
+        <item>Gobi Manchurian Image</item>
+        <item>Chinese Bhel Image</item>
+        <item>Noodles Image</item>
+        <item>Fried Rice Image</item>
+        <item>Soup Image</item>
+        <item>Pav Bhaji Image</item>
+        <item>Misal Pav Image</item>
+        <item>Sabudana Vada Image</item>
+        <item>Paratha Image</item>
+        <item>Chole Bhature Image</item>
+        <item>Dal Khichdi Image</item>
+        <item>Poha Image</item>
+        <item>Zunka Bhakar Image</item>
+        <item>Vada Pav Image</item>
+        <item>Samosa Image</item>
+        <item>Raj Kachori Image</item>
+        <item>Dabeli Image</item>
+        <item>Dhokla Image</item>
+        <item>Pakoda Image</item>
+        <item>Panipuri Image</item>
+        <item>Bhelpuri Image</item>
+        <item>Dahi Puri Image</item>
+        <item>Sev Puri Image</item>
+        <item>Ragda Pattice Image</item>
+        <item>Dahi Vada Image</item>
+        <item>Dosa Image</item>
+        <item>Idli Image</item>
+        <item>Vada Sambar Image</item>
+        <item>Upma Image</item>
+        <item>Uttapa Image</item>
+        <item>Puran Poli Image</item>
+        <item>Modak Image</item>
+        <item>Gajar Halwa Image</item>
+        <item>Jalebi Image</item>
+        <item>Rasgulla Image</item>
+        <item>Gulab Jamun Image</item>
+        <item>Ice Cream Image</item>
+        <item>Kulfi Image</item>
+        <item>Falooda Image</item>
+        <item>Lassi Image</item>
+        <item>Biryani Image</item>
+        <item>Bombil Fry Image</item>
+        <item>Butter Chicken Image</item>
+        <item>Chicken Lollipop Image</item>
+        <item>Roll Image</item>
+        <item>Chicken 65 Image</item>
+        <item>Chicken Momos Image</item>
+        <item>Kombdi Vade Image</item>
+        <item>Shawarma Image</item>
+        <item>Bhurji Pav Image</item>
+        <item>Omelette Image</item>
+        <item>Fish Curry Image</item>
+        <item>Prawn Curry Image</item>
+        <item>Vegetarian Food Icon</item>
+        <item>Chicken Drumstick Icon</item>
+        <item>Android Icon</item>
+        <item>Content Paste Icon</item>
+        <item>Explore Icon</item>
+        <item>Favourite Red Icon</item>
+        <item>Favourite Black Icon</item>
+        <item>Info Icon</item>
+        <item>Lock Icon</item>
+        <item>Mail Icon</item>
+        <item>Place Icon</item>
+        <item>Rate Review Icon</item>
+        <item>Search Icon</item>
+        <item>Share Icon</item>
+        <item>Amarante Font</item>
+        <item>Rammetto One Font</item>
+        <item>Signika Font</item>
+        <item>Yatra One Regular Font</item>
+
+    </string-array>
+    <string-array name="attr_desc">
+
+
+        <item>NishantAChavan (https://commons.wikimedia.org/wiki/File:Cutting_Chai.jpg), </item>
+        <item>Lotus Head from Johannesburg, Gauteng, South Africa (https://commons.wikimedia.org/wiki/File:Cup_of_Coffee_with_Spices.jpg), „Cup of Coffee with Spices“, </item>
+        <item>Lppa (https://commons.wikimedia.org/wiki/File:Hot_pizza.jpg), „Hot pizza“, </item>
+        <item>PJ (https://commons.wikimedia.org/wiki/File:Pasta_1.jpg), „Pasta 1“, </item>
+        <item>Anshumanonwiki (https://commons.wikimedia.org/wiki/File:Veg_rice_paper_spring_rolls.jpg), </item>
+        <item>NishantAChavan (https://commons.wikimedia.org/wiki/File:Mumbai_Masala_Toast_Sandwich2.jpg), </item>
+        <item>Ravi Talwar (https://commons.wikimedia.org/wiki/File:Veg._Burger.JPG), </item>
+        <item>Kushal Goyal (https://commons.wikimedia.org/wiki/File:Momo_nepal.jpg), „Momo nepal“, </item>
+        <item>Harsha K R from Bangalore, India (https://commons.wikimedia.org/wiki/File:Gobi_Manchurian.jpg), „Gobi Manchurian“, </item>
+        <item>Harshmander Rastogi (https://commons.wikimedia.org/wiki/File:Chinese_Bhel.jpg), </item>
+        <item>ZhengZhou (https://commons.wikimedia.org/wiki/File:Hot_Dry_Noodles.jpg), </item>
+        <item>Raamsanjay (https://commons.wikimedia.org/wiki/File:Veg-Fried_rice.jpg), </item>
+        <item>Tiia Monto (https://commons.wikimedia.org/wiki/File:Vegetable_soup_3.jpg), </item>
+        <item>Rishika Palvankar (https://commons.wikimedia.org/wiki/File:Pav_Bhaji.jpg), „Pav Bhaji“, </item>
+        <item>Karanchheda13495 (https://commons.wikimedia.org/wiki/File:MISAL_PAV.JPG), </item>
+        <item>Nick Gray (https://commons.wikimedia.org/wiki/File:Sabudana_Wada.jpg), „Sabudana Wada“, </item>
+        <item>Barthateslisa (https://commons.wikimedia.org/wiki/File:Aloo_Paratha_with_Butter_from_India.jpg), </item>
+        <item>Dheerajk88 (https://commons.wikimedia.org/wiki/File:Chole_Bhature_from_Nagpur.JPG), </item>
+        <item>RohitValecha (https://commons.wikimedia.org/wiki/File:Dal_Khichdi.jpg), </item>
+        <item>Rachna23Nov (https://commons.wikimedia.org/wiki/File:Colourful_Poha.jpg), </item>
+        <item>Satyajit Dhawale (Satyajit888) (https://commons.wikimedia.org/wiki/File:Zunka_Bhakar_1.jpg), </item>
+        <item>Rutvi Mistry (https://commons.wikimedia.org/wiki/File:Vada_Pav-Indian_street_food.JPG), </item>
+        <item>kspoddar (https://commons.wikimedia.org/wiki/File:Samosachutney.jpg), „Samosachutney“, </item>
+        <item>Puneet vivid (https://commons.wikimedia.org/wiki/File:Raj_Kachori_Haldiram.jpg), </item>
+        <item>Noopur28 (https://commons.wikimedia.org/wiki/File:Dabeli.jpg), „Dabeli“, </item>
+        <item>DreamyFlutura11 (https://commons.wikimedia.org/wiki/File:Dhokla_with_chutney.jpg), </item>
+        <item>Ranjithsiji (https://commons.wikimedia.org/wiki/File:Rosted_Onion_Pakoda.JPG), „Rosted Onion Pakoda“, </item>
+        <item>Sruthi612 (https://commons.wikimedia.org/wiki/File:Pani_Puri1.JPG), </item>
+        <item>stu_spivack (https://commons.wikimedia.org/wiki/File:Indian_cuisine-Chaat-Bhelpuri-03.jpg), „Indian cuisine-Chaat-Bhelpuri-03“, </item>
+        <item>Rupamdas75 (https://commons.wikimedia.org/wiki/File:Dahi_puri,_Doi_phuchka.jpg), </item>
+        <item>https://www.flickr.com/photos/feastguru_kirti/ (https://commons.wikimedia.org/wiki/File:Sev_Puri.jpg), „Sev Puri“, </item>
+        <item>Maskaravivek (https://commons.wikimedia.org/wiki/File:Ragda_Patties_top_view.HEIC.jpg), </item>
+        <item>Kushal Das (https://commons.wikimedia.org/wiki/File:Dahi_bhalla_vada.jpg), „Dahi bhalla vada“, </item>
+        <item>OdetomyLife (https://commons.wikimedia.org/wiki/File:Masala_Dosa_or_Dosai.JPG), </item>
+        <item>Mdsmds0 (https://commons.wikimedia.org/wiki/File:Idlis_with_Sambar_and_Coconut_Chutney.JPG), </item>
+        <item>Rajeshlal1ster (https://commons.wikimedia.org/wiki/File:Vada_sambar.jpg), </item>
+        <item>Ravi Talwar (https://commons.wikimedia.org/wiki/File:Suji_Upma.JPG), </item>
+        <item>Nish1892 (https://commons.wikimedia.org/wiki/File:Onion-Tomato_Uttapam.jpg), </item>
+        <item>Usha Nagle (https://commons.wikimedia.org/wiki/File:Maharashtrian_Puran_Poli.jpg), </item>
+        <item>Sahil tiwarie (https://commons.wikimedia.org/wiki/File:Ukdiche_modak.jpg), </item>
+        <item>Prerna Jaddwani (https://commons.wikimedia.org/wiki/File:Gajjar_ka_halwa_(carrot_halwa).JPG), </item>
+        <item>Lion.harvinder (https://commons.wikimedia.org/wiki/File:Jalebi_-_Served_in_a_Plate.JPG), </item>
+        <item>Mdsmds0 (https://commons.wikimedia.org/wiki/File:Rasgulla_Sweet.JPG), </item>
+        <item>Tamorlan (https://commons.wikimedia.org/wiki/File:Gulab_jamun_(Lav).JPG), „Gulab jamun (Lav)“, </item>
+        <item>Slashme (https://commons.wikimedia.org/wiki/File:Icecream_Cone.jpg), „Icecream Cone“, </item>
+        <item>Deboli Dutta (https://commons.wikimedia.org/wiki/File:Mango_Kesar_Kulfi.jpg), </item>
+        <item>Jyothis Thaliath (https://commons.wikimedia.org/wiki/File:Royal_Falooda.jpg), </item>
+        <item>Shrads.m (https://commons.wikimedia.org/wiki/File:Matka_Lassi.JPG), </item>
+        <item>Biswarup Ganguly (https://commons.wikimedia.org/wiki/File:Chicken_Biryani_en dash_Howrah_2015en dash06en dash14_2889.JPG), „Chicken Biryani en dash Howrah 2015en dash06en dash14 2889“, </item>
+        <item>Durvankur Patil (https://commons.wikimedia.org/wiki/File:Fried_Bombay_Duck.JPG), </item>
+        <item>Affaf Ali (https://commons.wikimedia.org/wiki/File:Butter_Chicken_1.jpg), </item>
+        <item>Kingdom Hall (https://commons.wikimedia.org/wiki/File:Chicken_Lollipop1.jpg), </item>
+        <item>Deboli Dutta (https://commons.wikimedia.org/wiki/File:Chicken_Egg_Roll.JPG), </item>
+        <item>Amiyashrivastava (https://commons.wikimedia.org/wiki/File:Chicken_65_(Dish).jpg), „Chicken 65 (Dish)“, </item>
+        <item>haseeb (https://commons.wikimedia.org/wiki/File:Chicken_Momos.jpg), </item>
+        <item>Wikipal19 (https://commons.wikimedia.org/wiki/File:Kombdi_Vade.jpg), „Kombdi Vade“, </item>
+        <item>Zebaarts (https://commons.wikimedia.org/wiki/File:Chicken_Shawarma.jpg), </item>
+        <item>Praveen from Bangalore, India (https://commons.wikimedia.org/wiki/File:Spicy_egg_bhurji_@_the_eggfactory.jpg), „Spicy egg bhurji @ the eggfactory“, </item>
+        <item>Shobha Elizabeth John (https://commons.wikimedia.org/wiki/File:Omelette_breakfast.JPG), </item>
+        <item>Kalakki at Malayalam Wikipedia (https://commons.wikimedia.org/wiki/File:Meen_curry_2.JPG), „Meen curry 2“, </item>
+        <item>Vrushalipraveen (https://commons.wikimedia.org/wiki/File:Prawn_chettinad_curry.JPG), </item>
+        <item>Icons 8 Vegetarian Food icon ("https://icons8.com/icons/set/vegetarian-food"),</item>
+        <item>PNG Repo</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004</item>
+        <item>Apache License Version 2.0, January 2004 and Font By Google Fonts</item>
+        <item>Apache License Version 2.0, January 2004 and Font By Google Fonts</item>
+        <item>Apache License Version 2.0, January 2004 and Font By Google Fonts</item>
+        <item>Font By Google Fonts</item>
+
+
+
+
+    </string-array>
+    <string-array name="attr_link">
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/3.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/3.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/3.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/3.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/2.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by/2.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/2.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/2.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/3.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/3.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/2.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/2.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/2.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/3.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/3.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by/3.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/3.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/3.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by/2.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/2.5/legalcode</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>https://icons8.com</item>
+        <item>https://creativecommons.org/licenses/by-sa/4.0/legalcode</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt \n https://fonts.google.com/</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt \n https://fonts.google.com/</item>
+        <item>http://www.apache.org/licenses/LICENSE-2.0.txt \n https://fonts.google.com/</item>
+        <item>https://fonts.google.com/</item>
+
+    </string-array>
+</resources>

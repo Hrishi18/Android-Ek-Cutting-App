@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="e_s_address">
+        <item>,Churchgate</item>
+        <item>,Churchgate</item>
+        <item>,CST</item>
+        <item>,Masjid Bunder</item>
+        <item>,Grant Road</item>
+        <item>,Marine Lines</item>
+        <item>,Fort</item>
+        <item>,Grant Road</item>
+        <item>,Grant Road</item>
+        <item>,Grant Road</item>
+        <item>,Mahalaxmi</item>
+        <item>,Byculla</item>
+        <item>,Byculla</item>
+        <item>,Lower Parel</item>
+        <item>,Dadar</item>
+        <item>,Parel</item>
+        <item>,Dadar</item>
+        <item>,Wadala</item>
+        <item>,Wadala</item>
+        <item>,GTB Nagar</item>
+        <item>,GTB Nagar</item>
+        <item>,Matunga</item>
+        <item>,Kurla</item>
+        <item>,Kurla</item>
+        <item>,Chembur</item>
+        <item>,Vashi</item>
+        <item>,Vikroli</item>
+        <item>,Vikroli</item>
+        <item>,Vikroli</item>
+        <item>,Thane</item>
+        <item>,Bandra</item>
+        <item>,Bandra</item>
+        <item>,Santacruz</item>
+        <item>,Khar</item>
+        <item>,Santacruz</item>
+        <item>,Santacruz</item>
+        <item>,Santacruz</item>
+        <item>,Vile Parle</item>
+        <item>,Kandivali</item>
+        <item>,Jogeshwari</item>
+        <item>,Dadar</item>
+        <item>,Andheri</item>
+        <item>,Vile Parle</item>
+        <item>,Bandra</item>
+        <item>,Dadar</item>
+        <item>,Malad</item>
+        <item>,Vikroli</item>
+        <item>,Pali Hill</item>
+        <item>,Kandivali</item>
+        <item>,Bandra</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,Kurla</item>
+        <item>,Fort</item>
+        <item>,Dadar</item>
+        <item>,BKC</item>
+        <item>,Bandra</item>
+        <item>,Thane</item>
+        <item>,Powai</item>
+        <item>,Andheri</item>
+        <item>,Andheri</item>
+        <item>,Grant Road</item>
+        <item>,Andheri</item>
+        <item>,Bandra</item>
+        <item>,Bandra</item>
+        <item>,Kurla</item>
+        <item>,Malad</item>
+        <item>,Lower Parel</item>
+        <item>,Bandra</item>
+        <item>,Prabhadevi</item>
+        <item>,Thane</item>
+        <item>,Andheri</item>
+        <item>,King\'s Circle</item>
+        <item>,Bandra</item>
+        <item>,Fort</item>
+        <item>,Andheri</item>
+        <item>,Byculla</item>
+        <item>,Bandra</item>
+        <item>,Bandra</item>
+        <item>,Andheri</item>
+        <item>,Juhu</item>
+        <item>,Khar</item>
+        <item>,Kharghar</item>
+        <item>,Mira Road</item>
+        <item>,GTB Nagar</item>
+        <item>,Goregaon</item>
+        <item>,Mahim</item>
+        <item>,Tardeo</item>
+        <item>,Vile Parle</item>
+        <item>,Malad</item>
+        <item>,Andheri</item>
+        <item>,Vasai</item>
+        <item>,Bandra</item>
+        <item>,Andheri</item>
+        <item>,Andheri</item>
+        <item>,Colaba</item>
+        <item>,Jogeshwari</item>
+        <item>,Pali Hill</item>
+        <item>,Fort</item>
+        <item>,Lower Parel</item>
+        <item>,Churchgate</item>
+        <item>,Churchgate</item>
+        <item>,Churchgate</item>
+        <item>,CST</item>
+        <item>,CST</item>
+        <item>,CST</item>
+        <item>,CST</item>
+        <item>,Kalbadevi</item>
+        <item>,Mandvi</item>
+        <item>,Mandvi</item>
+        <item>,Gamdevi</item>
+        <item>,Charni Road</item>
+        <item>,Charni Road</item>
+        <item>,Charni Road</item>
+        <item>,Bhuleshwar</item>
+        <item>,Marine Lines</item>
+        <item>,Grant Road</item>
+        <item>,Grant Road</item>
+        <item>,Grant Road</item>
+        <item>,Mahalaxmi</item>
+        <item>,Byculla</item>
+        <item>,Byculla</item>
+        <item>,Lower Parel</item>
+        <item>,Lower Parel</item>
+        <item>,Fort</item>
+        <item>,Parel</item>
+        <item>,Prabhadevi</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,Lower Parel</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,Wadala</item>
+        <item>,Wadala</item>
+        <item>,GTB Nagar</item>
+        <item>,Matunga</item>
+        <item>,Matunga</item>
+        <item>,Matunga</item>
+        <item>,Matunga</item>
+        <item>,King\'s Circle</item>
+        <item>,King\'s Circle</item>
+        <item>,King\'s Circle</item>
+        <item>,King\'s Circle</item>
+        <item>,Mahim</item>
+        <item>,Mahim</item>
+        <item>,Mahim</item>
+        <item>,Sion</item>
+        <item>,Sion</item>
+        <item>,Sion</item>
+        <item>,Sion</item>
+        <item>,Kurla</item>
+        <item>,Chembur</item>
+        <item>,Chembur</item>
+        <item>,Chembur</item>
+        <item>,Chembur</item>
+        <item>,Chembur</item>
+        <item>,Chembur</item>
+        <item>,Chembur</item>
+        <item>,Koparkhairane</item>
+        <item>,Vashi</item>
+        <item>,Vashi</item>
+        <item>,Vashi</item>
+        <item>,Vashi</item>
+        <item>,Sanpada</item>
+        <item>,Sanpada</item>
+        <item>,Sanpada</item>
+        <item>,Sanpada</item>
+        <item>,Vidya Vihar</item>
+        <item>,Ghatkopar</item>
+        <item>,Ghatkopar</item>
+        <item>,Ghatkopar</item>
+        <item>,Ghatkopar</item>
+        <item>,Ghatkopar</item>
+        <item>,Ghatkopar</item>
+        <item>,Ghatkopar</item>
+        <item>,Vikroli</item>
+        <item>,Kanjurmarg</item>
+        <item>,Kanjurmarg</item>
+        <item>,Kanjurmarg</item>
+        <item>,Bhandup</item>
+        <item>,Bhandup</item>
+        <item>,Bhandup</item>
+        <item>,Bhandup</item>
+        <item>,Mulund</item>
+        <item>,Mulund</item>
+        <item>,Mulund</item>
+        <item>,Thane</item>
+        <item>,Thane</item>
+        <item>,Thane</item>
+        <item>,Thane</item>
+        <item>,Thane</item>
+        <item>,Thane</item>
+        <item>,Bandra</item>
+        <item>,Bandra</item>
+        <item>,Khar</item>
+        <item>,Khar</item>
+        <item>,Khar</item>
+        <item>,Santacruz</item>
+        <item>,Santacruz</item>
+        <item>,Santacruz</item>
+        <item>,Santacruz</item>
+        <item>,Vile Parle</item>
+        <item>,Vile Parle</item>
+        <item>,Vile Parle</item>
+        <item>,Andheri</item>
+        <item>,Andheri</item>
+        <item>,Andheri</item>
+        <item>,Andheri</item>
+        <item>,Jogeshwari</item>
+        <item>,Jogeshwari</item>
+        <item>,Jogeshwari</item>
+        <item>,Jogeshwari</item>
+        <item>,Goregaon</item>
+        <item>,Goregaon</item>
+        <item>,Goregaon</item>
+        <item>,Goregaon</item>
+        <item>,Borivali</item>
+        <item>,Malad</item>
+        <item>,Malad</item>
+        <item>,Malad</item>
+        <item>,Borivali</item>
+        <item>,Borivali</item>
+        <item>,Kandivali</item>
+        <item>,Kandivali</item>
+        <item>,Mumbai Central</item>
+        <item>,Fort</item>
+        <item>,Churchgate</item>
+        <item>,Dadar</item>
+        <item>,Juhu</item>
+        <item>,Santacruz</item>
+        <item>,Lower Parel</item>
+        <item>,Dadar</item>
+        <item>,Lower Parel</item>
+        <item>,Goregaon</item>
+        <item>,Vile Parle</item>
+        <item>,Bandra</item>
+        <item>,Lower Parel</item>
+        <item>,Tardeo</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,Bandra</item>
+        <item>,Sion</item>
+        <item>,Girgaon</item>
+        <item>,Vile Parle</item>
+        <item>,Borivali</item>
+        <item>,Dadar</item>
+        <item>,Sion</item>
+        <item>,Sion</item>
+        <item>,Andheri</item>
+        <item>,Worli</item>
+        <item>,Lower Parel</item>
+        <item>,Bandra</item>
+        <item>,Santacruz</item>
+        <item>,Sion</item>
+        <item>,Juhu</item>
+        <item>,Khar</item>
+        <item>,Vile Parle</item>
+        <item>,Andheri</item>
+        <item>,Matunga</item>
+        <item>,Fort</item>
+        <item>,Prabhadevi</item>
+        <item>,Powai</item>
+        <item>,Borivali</item>
+        <item>,Lower Parel</item>
+        <item>,Sion</item>
+        <item>,Chembur</item>
+        <item>,Marine Lines</item>
+        <item>,Mahim</item>
+        <item>,Chembur</item>
+        <item>,Vile Parle</item>
+        <item>,Juhu</item>
+        <item>,Fort</item>
+        <item>,Bandra</item>
+        <item>,Andheri</item>
+        <item>,Breach Candy</item>
+        <item>,Andheri</item>
+        <item>,Khar</item>
+        <item>,Vile Parle</item>
+        <item>,Bandra</item>
+        <item>,Powai</item>
+        <item>,Fort</item>
+        <item>,Dadar</item>
+        <item>,Khar</item>
+        <item>,Bandra</item>
+        <item>,Dadar</item>
+        <item>,Fort</item>
+        <item>,Juhu</item>
+        <item>,Andheri</item>
+        <item>,Girgaon</item>
+        <item>,Vile Parle</item>
+        <item>,Thane</item>
+        <item>,Girgaon</item>
+        <item>,Tardeo</item>
+        <item>,Vile Parle</item>
+        <item>,Andheri</item>
+        <item>,Matunga</item>
+        <item>,Malbar Hill</item>
+        <item>,Khar</item>
+        <item>,Girgaon</item>
+        <item>,Mahim</item>
+        <item>,Santacruz</item>
+        <item>,Ghatkopar</item>
+        <item>,Girgaon</item>
+        <item>,Bandra</item>
+        <item>,Dadar</item>
+        <item>,Malad</item>
+        <item>,Andheri</item>
+        <item>,Andheri</item>
+        <item>,Juhu</item>
+        <item>,Nerul</item>
+        <item>,Vile Parle</item>
+        <item>,Andheri</item>
+        <item>,Andheri</item>
+        <item>,Andheri</item>
+        <item>,Kandivali</item>
+        <item>,Malad</item>
+        <item>,Vashi</item>
+        <item>,Juhu</item>
+        <item>,Fort</item>
+        <item>,Girgaon</item>
+        <item>,Sion</item>
+        <item>,Lower Parel</item>
+        <item>,Vile Parle</item>
+        <item>,Bandra</item>
+        <item>,Kandivali</item>
+        <item>,Matunga</item>
+        <item>,Vile Parle</item>
+        <item>,Malad</item>
+        <item>,Vile Parle</item>
+        <item>,Matunga</item>
+        <item>,Thane</item>
+        <item>,Vashi</item>
+        <item>,Charni Road</item>
+        <item>,Matunga</item>
+        <item>,Charni Road</item>
+        <item>,Powai</item>
+        <item>,Ghatkopar</item>
+        <item>,Matunga</item>
+        <item>,Dombivali</item>
+        <item>,Churchgate</item>
+        <item>,Bandra</item>
+        <item>,Kalbadevi</item>
+        <item>,Khar</item>
+        <item>,Bandra</item>
+        <item>,Bandra</item>
+        <item>,Khar</item>
+        <item>,Santacruz</item>
+        <item>,Ulhasnagar</item>
+        <item>,Khar</item>
+        <item>,Andheri</item>
+        <item>,Thane</item>
+        <item>,Powai</item>
+        <item>,Malad</item>
+        <item>,Malad</item>
+        <item>,Jogeshwari</item>
+        <item>,Vile Parle</item>
+        <item>,Thane</item>
+        <item>,Vile Parle</item>
+        <item>,Mira Road</item>
+        <item>,Andheri</item>
+        <item>,Nariman Point</item>
+        <item>,Byculla</item>
+        <item>,Andheri</item>
+        <item>,Vile Parle</item>
+        <item>,Kandivali</item>
+        <item>,Dadar</item>
+        <item>,Fort</item>
+        <item>,Khar</item>
+        <item>,Ghatkopar</item>
+        <item>,Matunga</item>
+        <item>,Grant Road</item>
+        <item>,Dahisar</item>
+        <item>,Malad</item>
+        <item>,Kalbadevi</item>
+        <item>,Juhu</item>
+        <item>,Sion</item>
+        <item>,Girgaon</item>
+        <item>,Vile Parle</item>
+        <item>,BKC</item>
+        <item>,Bandra</item>
+        <item>,Dadar</item>
+        <item>,Powai</item>
+        <item>,Malad</item>
+        <item>,Andheri</item>
+        <item>,Borivali</item>
+        <item>,Santacruz</item>
+        <item>,Powai</item>
+        <item>,Bandra</item>
+        <item>,Dadar</item>
+        <item>,Santacruz</item>
+        <item>,Byculla</item>
+        <item>,Fort</item>
+        <item>,Goregaon</item>
+        <item>,Grant Road</item>
+        <item>,Mulund</item>
+        <item>,Thane</item>
+        <item>,Goregaon</item>
+        <item>,Mulund</item>
+        <item>,Goregaon</item>
+        <item>,Juhu</item>
+        <item>,Dadar</item>
+        <item>,Bandra</item>
+        <item>,Charni Road</item>
+        <item>,Kalbadevi</item>
+        <item>,Malad</item>
+        <item>,Goregaon</item>
+        <item>,Santacruz</item>
+        <item>,Mahalakshmi</item>
+        <item>,Kandivali</item>
+
+
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ek Cutting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ss_name">एक Cutting</string>
+    <string name="ss_tagline">Mumbai का Menu Card!</string>
+    <string name="devby">Developed By,\nHrishikesh Gawas</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_current_location">Get Current Location</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="feedback">Feedback</string>
+    <string name="attribution">Attribution</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="version">Version</string>
+    <string name="navigation_drawer_open">Navigation Drawer Open</string>
+    <string name="navigation_drawer_close">Navigation Drawer Close</string>
+    <string name="no_data_available_sorry">Sorry!\nNo popular food outlets around you. / \nYou might not be in Mumbai.</string>
+    <string name="no_fav_available_sorry">No favourites added yet!</string>
+
+
+
+</resources>

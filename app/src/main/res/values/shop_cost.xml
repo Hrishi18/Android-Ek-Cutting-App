@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="s_cost_one">
+        <item>Irani Chai</item>
+        <item>Masala Coffee</item>
+        <item>Bombay Masala Pizza</item>
+        <item>Veg Paprika Pasta</item>
+        <item>Schezwan Paneer</item>
+        <item>Spinach Corn Grilled Sandwich</item>
+        <item>Veg Burger</item>
+        <item>Paneer Momos</item>
+        <item>Veg Manchurian</item>
+        <item>Chinese Bhel</item>
+        <item>Hakka Noodles</item>
+        <item>Fried Rice</item>
+        <item>Mushroom Soup</item>
+        <item>Cheese Pav Bhaji</item>
+        <item>Misal Pav</item>
+        <item>Sabudana Vada</item>
+        <item>Punjabi Punch Paratha</item>
+        <item>Chole Bhature</item>
+        <item>Dal Tadka Khichdi</item>
+        <item>Kande Pohe</item>
+        <item>Zunka Bhakar</item>
+        <item>Choora Pav</item>
+        <item>Samosa Chole</item>
+        <item>Raj Kachori</item>
+        <item>Dancing Dabeli</item>
+        <item>Moong Dal Dhokla</item>
+        <item>Kanda Bhajiya</item>
+        <item>Pani Puri</item>
+        <item>Bhelpuri</item>
+        <item>Dahi Puri</item>
+        <item>Sev Puri</item>
+        <item>Ragda Pattice</item>
+        <item>Dahi Vada</item>
+        <item>Special Jinny Dosa</item>
+        <item>Coorg Idli</item>
+        <item>Palak Medu Vada</item>
+        <item>Upma Podi</item>
+        <item>Podi Onion Uttapam</item>
+        <item>Puran Poli</item>
+        <item>Ukdiche Modak</item>
+        <item>Gajar Halwa</item>
+        <item>Jalebi</item>
+        <item>Coffee Rasgulla</item>
+        <item>Gulab Jamun</item>
+        <item>Charcoal Icecream</item>
+        <item>Malai Kulfi</item>
+        <item>Rabdi Falooda</item>
+        <item>Lassi</item>
+
+    </string-array>
+
+    <string-array name="s_cost_two">
+        <item>Masala Chai</item>
+        <item>Irish Coffee</item>
+        <item>Gourmet Pizza</item>
+        <item>Spaghetti Aglio Olio</item>
+        <item>Aloo Chipotle Roll</item>
+        <item>Cheese Grilled Sandwich</item>
+        <item>Hard Rock Veggie Burger</item>
+        <item>Paneer Momos</item>
+        <item>Veg Manchurian</item>
+        <item>Chinese Bhel</item>
+        <item>Wok Box</item>
+        <item>Fried Rice</item>
+        <item>Tomato Soup</item>
+        <item>Butter Pav Bhaji</item>
+        <item>Misal Pav</item>
+        <item>Sabudana Vada</item>
+        <item>Cheese Paratha</item>
+        <item>Chole Bhature</item>
+        <item>Gratinated Dal Khichdi</item>
+        <item>Vangee Pohe</item>
+        <item>Zunka Bhakar</item>
+        <item>Grilled Cheese Vada Pav</item>
+        <item>Samosa</item>
+        <item>Raj Kachori</item>
+        <item>Classic Dabeli</item>
+        <item>Dhokla</item>
+        <item>Aloo Bhajiya</item>
+        <item>Pani Puri</item>
+        <item>Golden Bhel</item>
+        <item>Dahi Puri</item>
+        <item>Sev Puri</item>
+        <item>Ragda Pattice</item>
+        <item>Dahi Vada</item>
+        <item>Neer Dosa</item>
+        <item>Molgapodi Idli</item>
+        <item>Medu Vada</item>
+        <item>Upma</item>
+        <item>Onion Uttapam</item>
+        <item>Puran Poli</item>
+        <item>Ukdiche Modak</item>
+        <item>Gajar Halwa</item>
+        <item>Jalebi</item>
+        <item>Baked Rasgulla</item>
+        <item>Gulab Jamun</item>
+        <item>Ferrero Crunch</item>
+        <item>Malai Kulfi</item>
+        <item>Classic Kesar Falooda</item>
+        <item>Maharaja Lassi</item>
+
+
+    </string-array>
+
+    <string-array name="s_cost_three">
+        <item>Irani Chai</item>
+        <item>Cold Coffee</item>
+        <item>China Gate Pizza</item>
+        <item>Pasta</item>
+        <item>Frankie</item>
+        <item>Cheese Grill Sandwich</item>
+        <item>Burger</item>
+        <item>Momos</item>
+        <item>Veg Manchurian</item>
+        <item>Chinese Bhel</item>
+        <item>Pad Thai Noodles</item>
+        <item>Garlic Fried Rice</item>
+        <item>Mushroom Soup</item>
+        <item>Pav Bhaji</item>
+        <item>Misal Pav</item>
+        <item>Sabudana Vada</item>
+        <item>Chilli Cheese Paratha</item>
+        <item>Chole Bhature</item>
+        <item>Dal Khichdi</item>
+        <item>Kande Pohe</item>
+        <item>Zunka Bhakar</item>
+        <item>Butter Cheese Vada Pav</item>
+        <item>Samosa</item>
+        <item>Raj Kachori</item>
+        <item>Cheese Garlic Dabeli</item>
+        <item>Dhokla</item>
+        <item>Kanda Bhajiya</item>
+        <item>Pani Puri</item>
+        <item>Bhelpuri</item>
+        <item>Dahi Puri</item>
+        <item>Sev Puri</item>
+        <item>Ragda Pattice</item>
+        <item>Dahi Vada</item>
+        <item>Palak Panner Dosa</item>
+        <item>Idli Butter Podi</item>
+        <item>Medu Vada</item>
+        <item>Upma</item>
+        <item>Onion Uttapa</item>
+        <item>Puran Poli</item>
+        <item>Ukdiche Modak</item>
+        <item>Gajar Halwa</item>
+        <item>Jalebi</item>
+        <item>Rasgulla</item>
+        <item>Gulab Jamun</item>
+        <item>Sandwich Icecream</item>
+        <item>Mango Kulfi</item>
+        <item>Royal Falooda</item>
+        <item>Gud Ki Lassi</item>
+
+
+    </string-array>
+
+    <string-array name="s_cost_four">
+        <item>Saffron Tea</item>
+        <item>Nitro Coffee</item>
+        <item>Pane Pizza</item>
+        <item>Pasta Del Barone</item>
+        <item>Special Frankie</item>
+        <item>Masala Toast Sandwich</item>
+        <item>Burger</item>
+        <item>Paneer Achari Steam Momos</item>
+        <item>Veg Manchurian</item>
+        <item>Chinese Bhel</item>
+        <item>Noodles</item>
+        <item>Fried Rice</item>
+        <item>Rainbow Soup</item>
+        <item>Pav Bhaji</item>
+        <item>Misal Pav</item>
+        <item>Sabudana Vada</item>
+        <item>Paratha Basket</item>
+        <item>Chole Bhature</item>
+        <item>Dal Khichdi</item>
+        <item>Kande Pohe</item>
+        <item>Zunka Bhakar</item>
+        <item>Vada Pav</item>
+        <item>Cheese Samosa</item>
+        <item>Raj Kachori</item>
+        <item>Kutchi Dabeli</item>
+        <item>Dabeli Dhokla</item>
+        <item>Kanda Bhajiya</item>
+        <item>Pani Puri</item>
+        <item>Bhel</item>
+        <item>Dahi Puri</item>
+        <item>Sev Puri</item>
+        <item>Ragda Pattice</item>
+        <item>Dahi Vada</item>
+        <item>Mysore Masala Dosa</item>
+        <item>Butter Idli</item>
+        <item>Medu Vada</item>
+        <item>Milk Upma</item>
+        <item>Ghee Uttapam</item>
+        <item>Puran Poli</item>
+        <item>Modak</item>
+        <item>Gajar Halwa</item>
+        <item>Jalebi</item>
+        <item>Rasgulla</item>
+        <item>Kesar Gulab Jamun</item>
+        <item>Cookie Sandwich</item>
+        <item>Falooda Kulfi</item>
+        <item>Special Falooda</item>
+        <item>Lassi</item>
+
+    </string-array>
+
+    <string-array name="s_cost_five">
+        <item>Irani Chai</item>
+        <item>Cloud Cappuccino Coffee</item>
+        <item>American Hottest Pizza</item>
+        <item>Penne Pasta</item>
+        <item>Paneer Tikka BBQ Frankie</item>
+        <item>Cheese Grill Sandwich</item>
+        <item>Sweet Heat Burger</item>
+        <item>Tandoori Momos</item>
+        <item>Veg Manchurian</item>
+        <item>Chinese Bhel</item>
+        <item>Hakka Noodles</item>
+        <item>Fried Rice</item>
+        <item>Spicy Corn Soup</item>
+        <item>Pav Bhaji</item>
+        <item>Misal Pav</item>
+        <item>Sabudana Vada</item>
+        <item>Olive Cheese Paratha</item>
+        <item>Chole Bhature</item>
+        <item>Dal Khichdi</item>
+        <item>Vangee Pohe</item>
+        <item>Zunka Bhakar</item>
+        <item>Cheese Burst Vada Pav</item>
+        <item>Mawa Samosa</item>
+        <item>Raj Kachori</item>
+        <item>Butter Dabeli</item>
+        <item>Dhokla</item>
+        <item>Choori Bhajiya</item>
+        <item>Pani Puri</item>
+        <item>Bhelpuri</item>
+        <item>Dahi Puri</item>
+        <item>Sev Puri</item>
+        <item>Ragda Pattice</item>
+        <item>Dahi Vada</item>
+        <item>Nandu Special Dosa</item>
+        <item>Brahmin Idli</item>
+        <item>Masala Medu Vada</item>
+        <item>Upma</item>
+        <item>Masala Utappam</item>
+        <item>Puran Poli</item>
+        <item>Ukdiche Modak</item>
+        <item>Gajar Halwa</item>
+        <item>Jalebi</item>
+        <item>Rasgulla</item>
+        <item>Gulab Jamun</item>
+        <item>Guava Icecream</item>
+        <item>Malai Kulfi</item>
+        <item>Mango Falooda</item>
+        <item>Pineapple Lassi</item>
+
+
+
+    </string-array>
+
+
+</resources>

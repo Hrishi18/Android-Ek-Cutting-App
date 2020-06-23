@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Favourites">
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom = "?attr/actionBarSize"
+        android:clipToPadding="false" />
+
+
+    <RelativeLayout
+        android:id="@+id/empty_layout_f"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/empty_icon_f"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_favorite_shadow_24dp" />
+
+        <TextView
+            android:id="@+id/empty_view_f"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/empty_icon_f"
+            android:layout_marginTop="0dp"
+            android:gravity="center_horizontal"
+            android:text="@string/no_fav_available_sorry"
+            android:textSize="25sp"
+            app:fontFamily="@font/signika" />
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

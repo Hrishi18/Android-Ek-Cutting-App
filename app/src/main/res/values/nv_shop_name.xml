@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nv_s_one">
+        <item>Jafeer Bhai\'s</item>
+        <item>Gomantak</item>
+        <item>Goila</item>
+        <item>Quarter Piller</item>
+        <item>Pal\'s Corner</item>
+        <item>Home Chef</item>
+        <item>New Sernyaa</item>
+        <item>Malvan Samudra</item>
+        <item>Carter\'s Blue</item>
+        <item>Qutuz Irani Cafe</item>
+        <item>Good Luck Cafe</item>
+        <item>Hotel Sindhudurg</item>
+        <item>Chaitanya</item>
+    </string-array>
+
+    <string-array name="nv_s_two">
+        <item>Persian Darbar</item>
+        <item>Pradeep Gomantak</item>
+        <item>Pritam Da Dhaba</item>
+        <item>BKC Dive</item>
+        <item>Hearsch Bakery</item>
+        <item>BKC Dive</item>
+        <item>Appetite Momos</item>
+        <item>Soul Curry</item>
+        <item>Shawarma Factory</item>
+        <item>Mohammad Nashir</item>
+        <item>Kyani and Co.</item>
+        <item>Gajalee</item>
+        <item>Gajalee</item>
+    </string-array>
+
+    <string-array name="nv_s_three">
+        <item>Lucky Restaurant</item>
+        <item>Highway Gomantak</item>
+        <item>Butter Chicken Fct.</item>
+        <item>Uncle\'s Kitchen</item>
+        <item>Kathi Kebab Roll</item>
+        <item>Kaitlyn\'s Garden</item>
+        <item>Dev\'s Momo Hut</item>
+        <item>Malvan Tadka</item>
+        <item>Stuffed</item>
+        <item>Koolar and Co.</item>
+        <item>The Nutcracker</item>
+        <item>Apoorva</item>
+        <item>Mahesh Lunch Home</item>
+    </string-array>
+
+    <string-array name="nv_s_four">
+        <item>Noor Mohammad</item>
+        <item>Saddicha</item>
+        <item>Punjab Grill</item>
+        <item>King Chilli</item>
+        <item>Tibbs</item>
+        <item>3 Wise Monkeys</item>
+        <item>Utsav Chowk</item>
+        <item>Amcho Koliwado</item>
+        <item>King\'s Shawarma</item>
+        <item>Thakur Fast Food</item>
+        <item>Cafe Irani Chai</item>
+        <item>Gomantak</item>
+        <item>Highway Gomantak</item>
+    </string-array>
+
+    <string-array name="nv_s_five">
+        <item>Cafe Noorani</item>
+        <item>Malwani Aswad</item>
+        <item>Zaffran</item>
+        <item>Ahura Bakery</item>
+        <item>Venus Bakery</item>
+        <item>Hoppumm</item>
+        <item>Bhukkha Sher</item>
+        <item>Food N Flame</item>
+        <item>Modern</item>
+        <item>Cafe Gulshan</item>
+        <item>Bagel Shop</item>
+        <item>Trishna</item>
+        <item>Jai Hind</item>
+
+
+    </string-array>
+
+</resources>

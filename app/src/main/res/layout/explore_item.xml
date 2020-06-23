@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="5dp"
+    app:cardElevation="@dimen/cardview_default_elevation">
+
+    <RelativeLayout
+        android:id="@+id/e_rl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/button_states"
+        android:paddingBottom="5dp">
+
+        <Button
+            android:id="@+id/e_but"
+            android:layout_width="30dp"
+            android:layout_height="135dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:background="@android:color/white">
+
+
+        </Button>
+
+        <Button
+            android:id="@+id/e_fav"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/e_description"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/ic_favorite_shadow_24dp" />
+
+
+        <ImageView
+            android:id="@+id/e_loct"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_below="@+id/e_description"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@+id/e_cost"
+            app:srcCompat="@drawable/ic_place_black_24dp"
+            tools:ignore="VectorDrawableCompat" />
+
+        <ImageView
+            android:id="@+id/e_coins"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_below="@+id/e_description"
+            android:layout_marginEnd="5dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="46dp"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@+id/e_but"
+            android:layout_toRightOf="@+id/e_but"
+            app:srcCompat="@drawable/coins" />
+
+
+        <TextView
+            android:id="@+id/e_cost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/e_description"
+            android:layout_marginLeft="3dp"
+            android:layout_marginStart="3dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@+id/e_coins"
+            android:layout_toRightOf="@+id/e_coins"
+            android:text="Rs 100/plate"
+            android:textSize="13sp"
+            app:fontFamily="@font/signika" />
+
+        <TextView
+            android:id="@+id/e_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@+id/e_but"
+            android:text="Samosa Factory,"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            app:fontFamily="@font/amarante" />
+
+        <TextView
+            android:id="@+id/e_dist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/e_description"
+            android:layout_marginEnd="13dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="13dp"
+            android:layout_marginStart="3dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@+id/e_loct"
+            android:layout_toLeftOf="@+id/e_fav"
+            android:layout_toRightOf="@+id/e_loct"
+            android:layout_toStartOf="@+id/e_fav"
+            android:text="Distance"
+            android:textSize="13sp"
+            app:fontFamily="@font/signika" />
+
+        <TextView
+            android:id="@+id/e_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="15dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="11dp"
+            android:layout_toEndOf="@+id/e_name"
+            android:layout_toRightOf="@+id/e_name"
+            android:text="Santacruz(W)"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            app:fontFamily="@font/amarante" />
+
+        <TextView
+            android:id="@+id/e_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/e_address"
+            android:layout_marginEnd="15dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="5dp"
+            android:layout_toEndOf="@+id/e_but"
+            android:layout_toRightOf="@+id/e_but"
+            android:text="The samosas are a fried or baked pastry with a savoury filling, such as spiced potatoes, onions, peas, lentils, and minced meat (lamb, beef or chicken)."
+            android:textColor="#000000"
+            android:textSize="14sp"
+            app:fontFamily="@font/signika" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

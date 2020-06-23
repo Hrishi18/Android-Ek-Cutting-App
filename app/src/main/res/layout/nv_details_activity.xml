@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardElevation="@dimen/cardview_default_elevation">
+
+            <RelativeLayout
+                android:id="@+id/nv_rl_one"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_states"
+                android:paddingBottom="5dp">
+
+                <Button
+                    android:id="@+id/nv_but_one"
+                    android:layout_width="30dp"
+                    android:layout_height="135dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/colorNVeg1">
+
+                </Button>
+
+                <Button
+                    android:id="@+id/nv_fav_one"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_description_one"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/ic_favorite_shadow_24dp" />
+
+
+                <ImageView
+                    android:id="@+id/nv_coins_one"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/nv_description_one"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="46dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_but_one"
+                    android:layout_toRightOf="@+id/nv_but_one"
+                    app:srcCompat="@drawable/coins" />
+
+                <TextView
+                    android:id="@+id/nv_description_one"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_address_one"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_but_one"
+                    android:layout_toRightOf="@+id/nv_but_one"
+                    android:text="The samosas are a fried or baked pastry with a savoury filling, such as spiced potatoes, onions, peas, lentils, and minced meat (lamb, beef or chicken)."
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    app:fontFamily="@font/signika" />
+
+                <TextView
+                    android:id="@+id/nv_name_one"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toRightOf="@+id/nv_but_one"
+                    android:text="Samosa Factory,"
+                    android:textColor="#000000"
+                    android:textSize="24sp"
+                    app:fontFamily="@font/amarante" />
+
+
+                <TextView
+                    android:id="@+id/nv_cost_one"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_description_one"
+                    android:layout_marginEnd="80dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="80dp"
+                    android:layout_marginStart="3dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_coins_one"
+                    android:layout_toRightOf="@+id/nv_coins_one"
+                    android:text="Rs 100/plate"
+                    app:fontFamily="@font/signika" />
+
+                <TextView
+                    android:id="@+id/nv_address_one"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="11dp"
+                    android:layout_toEndOf="@+id/nv_name_one"
+                    android:layout_toRightOf="@+id/nv_name_one"
+                    android:text="Santacruz(W)"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    app:fontFamily="@font/amarante" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardElevation="@dimen/cardview_default_elevation">
+
+            <RelativeLayout
+                android:id="@+id/nv_rl_two"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_states"
+                android:paddingBottom="5dp">
+
+                <Button
+                    android:id="@+id/nv_but_two"
+                    android:layout_width="30dp"
+                    android:layout_height="135dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/colorNVeg2">
+
+                </Button>
+
+                <Button
+                    android:id="@+id/nv_fav_two"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_description_two"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/ic_favorite_shadow_24dp" />
+
+
+                <ImageView
+                    android:id="@+id/nv_coins_two"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/nv_description_two"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="46dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_but_two"
+                    android:layout_toRightOf="@+id/nv_but_two"
+                    app:srcCompat="@drawable/coins" />
+
+                <TextView
+                    android:id="@+id/nv_description_two"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_address_two"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_but_two"
+                    android:layout_toRightOf="@+id/nv_but_two"
+                    android:text="The samosas are a fried or baked pastry with a savoury filling, such as spiced potatoes, onions, peas, lentils, and minced meat (lamb, beef or chicken)."
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    app:fontFamily="@font/signika" />
+
+                <TextView
+                    android:id="@+id/nv_name_two"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toRightOf="@+id/nv_but_two"
+                    android:text="Samosa Factory,"
+                    android:textColor="#000000"
+                    android:textSize="24sp"
+                    app:fontFamily="@font/amarante" />
+
+                <TextView
+                    android:id="@+id/nv_cost_two"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_description_two"
+                    android:layout_marginEnd="80dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="80dp"
+                    android:layout_marginStart="3dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_coins_two"
+                    android:layout_toRightOf="@+id/nv_coins_two"
+                    android:text="Rs 100/plate"
+                    app:fontFamily="@font/signika" />
+
+                <TextView
+                    android:id="@+id/nv_address_two"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="11dp"
+                    android:layout_toEndOf="@+id/nv_name_two"
+                    android:layout_toRightOf="@+id/nv_name_two"
+                    android:text="Santacruz(W)"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    app:fontFamily="@font/amarante" />
+
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardElevation="@dimen/cardview_default_elevation">
+
+            <RelativeLayout
+                android:id="@+id/nv_rl_three"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_states"
+                android:paddingBottom="5dp">
+
+                <Button
+                    android:id="@+id/nv_but_three"
+                    android:layout_width="30dp"
+                    android:layout_height="135dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/colorNVeg3">
+
+                </Button>
+
+                <Button
+                    android:id="@+id/nv_fav_three"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginRight="16dp"
+                    android:background="@drawable/ic_favorite_shadow_24dp" />
+
+
+                <ImageView
+                    android:id="@+id/nv_coins_three"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/nv_description_three"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="46dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_toEndOf="@+id/nv_but_three"
+                    android:layout_toRightOf="@+id/nv_but_three"
+                    app:srcCompat="@drawable/coins" />
+
+                <TextView
+                    android:id="@+id/nv_description_three"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_address_three"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_but_three"
+                    android:layout_toRightOf="@+id/nv_but_three"
+                    android:text="The samosas are a fried or baked pastry with a savoury filling, such as spiced potatoes, onions, peas, lentils, and minced meat (lamb, beef or chicken)."
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    app:fontFamily="@font/signika" />
+
+                <TextView
+                    android:id="@+id/nv_name_three"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toRightOf="@+id/nv_but_three"
+                    android:text="Samosa Factory,"
+                    android:textColor="#000000"
+                    android:textSize="24sp"
+                    app:fontFamily="@font/amarante" />
+
+                <TextView
+                    android:id="@+id/nv_cost_three"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_description_three"
+                    android:layout_marginEnd="80dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="80dp"
+                    android:layout_marginStart="3dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_toEndOf="@+id/nv_coins_three"
+                    android:layout_toRightOf="@+id/nv_coins_three"
+                    android:text="Rs 100/plate"
+                    app:fontFamily="@font/signika" />
+
+                <TextView
+                    android:id="@+id/nv_address_three"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="11dp"
+                    android:layout_toEndOf="@+id/nv_name_three"
+                    android:layout_toRightOf="@+id/nv_name_three"
+                    android:text="Santacruz(W)"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    app:fontFamily="@font/amarante" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardElevation="@dimen/cardview_default_elevation">
+
+            <RelativeLayout
+                android:id="@+id/nv_rl_four"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_states"
+                android:paddingBottom="5dp">
+
+                <Button
+                    android:id="@+id/nv_but_four"
+                    android:layout_width="30dp"
+                    android:layout_height="135dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/colorNVeg4">
+
+                </Button>
+
+                <Button
+                    android:id="@+id/nv_fav_four"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_description_four"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/ic_favorite_shadow_24dp" />
+
+
+                <ImageView
+                    android:id="@+id/nv_coins_four"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/nv_description_four"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="46dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_but_four"
+                    android:layout_toRightOf="@+id/nv_but_four"
+                    app:srcCompat="@drawable/coins" />
+
+                <TextView
+                    android:id="@+id/nv_description_four"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_address_four"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_but_four"
+                    android:layout_toRightOf="@+id/nv_but_four"
+                    android:text="The samosas are a fried or baked pastry with a savoury filling, such as spiced potatoes, onions, peas, lentils, and minced meat (lamb, beef or chicken)."
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    app:fontFamily="@font/signika" />
+
+                <TextView
+                    android:id="@+id/nv_name_four"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toRightOf="@+id/nv_but_four"
+                    android:text="Samosa Factory,"
+                    android:textColor="#000000"
+                    android:textSize="24sp"
+                    app:fontFamily="@font/amarante" />
+
+                <TextView
+                    android:id="@+id/nv_cost_four"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_description_four"
+                    android:layout_marginEnd="80dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="80dp"
+                    android:layout_marginStart="3dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_coins_four"
+                    android:layout_toRightOf="@+id/nv_coins_four"
+                    android:text="Rs 100/plate"
+                    app:fontFamily="@font/signika" />
+
+                <TextView
+                    android:id="@+id/nv_address_four"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="11dp"
+                    android:layout_toEndOf="@+id/nv_name_four"
+                    android:layout_toRightOf="@+id/nv_name_four"
+                    android:text="Santacruz(W)"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    app:fontFamily="@font/amarante" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardElevation="@dimen/cardview_default_elevation">
+
+            <RelativeLayout
+                android:id="@+id/nv_rl_five"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/button_states"
+                android:paddingBottom="5dp">
+
+                <Button
+                    android:id="@+id/nv_but_five"
+                    android:layout_width="30dp"
+                    android:layout_height="135dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/colorNVeg5">
+
+                </Button>
+
+                <Button
+                    android:id="@+id/nv_fav_five"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_description_five"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/ic_favorite_shadow_24dp" />
+
+
+                <ImageView
+                    android:id="@+id/nv_coins_five"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/nv_description_five"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="46dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_but_five"
+                    android:layout_toRightOf="@+id/nv_but_five"
+                    app:srcCompat="@drawable/coins" />
+
+                <TextView
+                    android:id="@+id/nv_description_five"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_address_five"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_but_five"
+                    android:layout_toRightOf="@+id/nv_but_five"
+                    android:text="The samosas are a fried or baked pastry with a savoury filling, such as spiced potatoes, onions, peas, lentils, and minced meat (lamb, beef or chicken)."
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    app:fontFamily="@font/signika" />
+
+                <TextView
+                    android:id="@+id/nv_name_five"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toRightOf="@+id/nv_but_five"
+                    android:text="Samosa Factory,"
+                    android:textColor="#000000"
+                    android:textSize="24sp"
+                    app:fontFamily="@font/amarante" />
+
+                <TextView
+                    android:id="@+id/nv_cost_five"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/nv_description_five"
+                    android:layout_marginEnd="80dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="80dp"
+                    android:layout_marginStart="3dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toEndOf="@+id/nv_coins_five"
+                    android:layout_toRightOf="@+id/nv_coins_five"
+                    android:text="Rs 100/plate"
+                    app:fontFamily="@font/signika" />
+
+                <TextView
+                    android:id="@+id/nv_address_five"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginEnd="15dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="11dp"
+                    android:layout_toEndOf="@+id/nv_name_five"
+                    android:layout_toRightOf="@+id/nv_name_five"
+                    android:text="Santacruz(W)"
+                    android:textColor="#000000"
+                    android:textSize="18sp"
+                    app:fontFamily="@font/amarante" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>

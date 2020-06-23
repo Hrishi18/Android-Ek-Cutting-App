@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/veg"
+    android:icon="@drawable/vegfood"
+    android:title="Veg"/>
+
+    <item android:id="@+id/nonVeg"
+        android:icon="@drawable/chickleg"
+        android:title="Non-Veg"/>
+
+    <item android:id="@+id/explore"
+        android:icon="@drawable/ic_explore_black_24dp"
+        android:title="Explore"/>
+
+    <item android:id="@+id/favourites"
+        android:icon="@drawable/ic_favorite_red_24dp"
+        android:title="Favourite"/>
+
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="n_v_f_names">
+        <item>Biryani</item>
+        <item>Bombil Fry</item>
+        <item>Butter Chicken</item>
+        <item>Chicken Lollipop</item>
+        <item>Roll</item>
+        <item>Chicken 65</item>
+        <item>Chicken Momos</item>
+        <item>Kombdi Vade</item>
+        <item>Shawarma</item>
+        <item>Bhurji Pav</item>
+        <item>Omelette</item>
+        <item>Fish Curry</item>
+        <item>Prawn Curry</item>
+    </string-array>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="v_f_images">
+        <item>@drawable/tea</item>
+        <item>@drawable/coffee</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/pasta</item>
+        <item>@drawable/frankie</item>
+        <item>@drawable/sandwich</item>
+        <item>@drawable/burger</item>
+        <item>@drawable/momo</item>
+        <item>@drawable/gobimanchurian</item>
+        <item>@drawable/chinesebhel</item>
+        <item>@drawable/noodles</item>
+        <item>@drawable/friedrice</item>
+        <item>@drawable/soup</item>
+        <item>@drawable/pavbhaji</item>
+        <item>@drawable/misalpav</item>
+        <item>@drawable/sabudanavada</item>
+        <item>@drawable/alooparatha</item>
+        <item>@drawable/cholebhature</item>
+        <item>@drawable/dalkhichdi</item>
+        <item>@drawable/poha</item>
+        <item>@drawable/zunkabhakar</item>
+        <item>@drawable/vadapav</item>
+        <item>@drawable/samosa</item>
+        <item>@drawable/kachori</item>
+        <item>@drawable/dabeli</item>
+        <item>@drawable/dhokla</item>
+        <item>@drawable/pakoda</item>
+
+        <item>@drawable/panipuri</item>
+        <item>@drawable/bhelpuri</item>
+        <item>@drawable/dahipuri</item>
+        <item>@drawable/sevpuri</item>
+        <item>@drawable/ragdapattice</item>
+        <item>@drawable/dahivada</item>
+        <item>@drawable/dosa</item>
+        <item>@drawable/idli</item>
+        <item>@drawable/vadasambar</item>
+        <item>@drawable/upma</item>
+        <item>@drawable/uttapa</item>
+        <item>@drawable/puranpoli</item>
+        <item>@drawable/modak</item>
+        <item>@drawable/gajarhalwa</item>
+
+        <item>@drawable/jalebi</item>
+
+
+        <item>@drawable/rasgulla</item>
+        <item>@drawable/gulabjamun</item>
+        <item>@drawable/icecream</item>
+        <item>@drawable/kulfi</item>
+        <item>@drawable/falooda</item>
+        <item>@drawable/lassi</item>
+    </integer-array>
+</resources>

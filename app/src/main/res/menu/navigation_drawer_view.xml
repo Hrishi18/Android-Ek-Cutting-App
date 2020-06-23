@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group
+        android:id = "@+id/d_one">
+        <item android:id = "@+id/share"
+            android:icon= "@drawable/ic_share_black_24dp"
+            android:title="@string/share"/>
+    </group>
+    <group
+        android:id = "@+id/d_two">
+        <item android:id = "@+id/rate_us"
+            android:icon= "@drawable/ic_rate_review_black_24dp"
+            android:title="@string/rate"/>
+    </group>
+    <group
+        android:id = "@+id/d_three">
+    <item android:id = "@+id/upgrade"
+        android:icon= "@drawable/ic_android_black_24dp"
+        android:title="@string/upgrade"/>
+    </group>
+    <group
+        android:id = "@+id/d_four">
+
+    <item android:id = "@+id/feedback"
+        android:icon= "@drawable/ic_mail_black_24dp"
+        android:title="@string/feedback"/>
+    </group>
+    <group
+        android:id = "@+id/d_five">
+    <item android:id = "@+id/attribution"
+        android:icon= "@drawable/ic_copyright_black_24dp"
+        android:title="@string/attribution"/>
+    </group>
+    <group
+        android:id = "@+id/d_six">
+    <item android:id = "@+id/terms_and_conditions"
+        android:icon= "@drawable/ic_content_paste_black_24dp"
+        android:title="@string/terms_conditions"/>
+    </group>
+    <group
+        android:id = "@+id/d_seven">
+    <item android:id = "@+id/privacy_policy"
+        android:icon= "@drawable/ic_lock_black_24dp"
+        android:title="Privacy Policy"/>
+    </group>
+    <group
+        android:id = "@+id/d_eight">
+    <item android:id = "@+id/version"
+        android:icon= "@drawable/ic_info_black_24dp"
+        android:title="@string/version"/>
+    </group>
+
+
+
+
+
+
+</menu>

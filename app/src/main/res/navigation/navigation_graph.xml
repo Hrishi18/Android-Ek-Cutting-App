@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/veg">
+
+    <fragment
+        android:id="@+id/veg"
+        android:name="com.hrishikeshgawas.ekcutting.Veg"
+        android:label="fragment_veg"
+        tools:layout="@layout/fragment_veg" />
+    <fragment
+        android:id="@+id/nonVeg"
+        android:name="com.hrishikeshgawas.ekcutting.NonVeg"
+        android:label="fragment_non_veg"
+        tools:layout="@layout/fragment_non_veg" />
+    <fragment
+        android:id="@+id/explore"
+        android:name="com.hrishikeshgawas.ekcutting.Explore"
+        android:label="fragment_explore"
+        tools:layout="@layout/fragment_explore" />
+    <fragment
+        android:id="@+id/favourites"
+        android:name="com.hrishikeshgawas.ekcutting.Favourites"
+        android:label="fragment_favourites"
+        tools:layout="@layout/fragment_favourites" />
+</navigation>

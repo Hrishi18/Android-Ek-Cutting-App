@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="s_one">
+        <item>Kyani and Co.</item>
+        <item>Kala Ghoda Cafe</item>
+        <item>Pizza By The Bay</item>
+        <item>Homechef</item>
+        <item>Tibbs</item>
+        <item>Sandwizzaa</item>
+        <item>Cafe Zoe</item>
+        <item>Dev\'s Momos Hut</item>
+        <item>Mandarin Oak</item>
+        <item>Raju Chinese</item>
+        <item>Wok Express</item>
+        <item>Yauatcha</item>
+        <item>Smoke House</item>
+        <item>Sardar Refreshments</item>
+        <item>Mamledar Misal</item>
+        <item>Prakash Shakahari</item>
+        <item>Only Parathas</item>
+        <item>Chawla\'s Dhaba</item>
+        <item>Khichdi Samrat</item>
+        <item>Mi Marathi</item>
+        <item>Girgaon Katta</item>
+        <item>Ashok Vada Pav</item>
+        <item>Guru Kripa</item>
+        <item>Tewari Bros.</item>
+        <item>Kapil Dabeli</item>
+        <item>Food Spot</item>
+        <item>SodaBottleOpener</item>
+        <item>Elco</item>
+        <item>Ram And Shyam</item>
+        <item>Prabha Hotel</item>
+        <item>Ram And Shyam</item>
+        <item>Sharma Chaat</item>
+        <item>Ashok Pani Puri</item>
+        <item>Anand Dosa Stall</item>
+        <item>Banana Leaf</item>
+        <item>Banana Leaf</item>
+        <item>Cafe Madras</item>
+        <item>Banana Leaf</item>
+        <item>Chetana</item>
+        <item>Modakam</item>
+        <item>Dilli Di Hatti</item>
+        <item>Purushottam</item>
+        <item>Bombay Canteen</item>
+        <item>Jhama Sweets</item>
+        <item>Ice Kraft</item>
+        <item>Parsi Dairy Farm</item>
+        <item>Baba Falooda</item>
+        <item>VIG Refreshments</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="s_two">
+        <item>Chaayos</item>
+        <item>Prithvi Cafe</item>
+        <item>1441 Pizzeria</item>
+        <item>Mia Cucina</item>
+        <item>Breadkraft</item>
+        <item>Right Place</item>
+        <item>Hard Rock Cafe</item>
+        <item>Kepchaki Momos</item>
+        <item>5 Spice</item>
+        <item>Elco</item>
+        <item>Wok In The Box</item>
+        <item>5 Spice</item>
+        <item>Mantra</item>
+        <item>Canon</item>
+        <item>Aaswad</item>
+        <item>Aaswad</item>
+        <item>Parathawala</item>
+        <item>Guru Kripa</item>
+        <item>Hitchki</item>
+        <item>Prakash Shakahari</item>
+        <item>Tambe Arogya</item>
+        <item>Aaram Vada Pav</item>
+        <item>Tewari Bros.</item>
+        <item>Shree Gangour</item>
+        <item>Little Bite</item>
+        <item>Soam</item>
+        <item>Parleshwar</item>
+        <item>Prashant Corner</item>
+        <item>Golden Bhelpuri</item>
+        <item>Swati Snacks</item>
+        <item>Swati Snacks</item>
+        <item>Ganesh Chaat</item>
+        <item>Monsoon</item>
+        <item>Ram Ashraya</item>
+        <item>Dakshinayan</item>
+        <item>Ram Ashraya</item>
+        <item>Ram Ashraya</item>
+        <item>Ram Ashraya</item>
+        <item>Swati Snacks</item>
+        <item>New Karachi</item>
+        <item>Guru Kripa</item>
+        <item>Pancharatna Jalebi</item>
+        <item>Sweet Bengal</item>
+        <item>Karan Gulab Jamun</item>
+        <item>Papa Cream</item>
+        <item>New Kulfi Center</item>
+        <item>Bachelorr\'s</item>
+        <item>Kailash Mandir</item>
+
+
+
+
+
+    </string-array>
+
+    <string-array name="s_three">
+        <item>Qutuz Irani Tea</item>
+        <item>Leaping Windows</item>
+        <item>Joey\'s Pizza</item>
+        <item>Alfredo\'s</item>
+        <item>Roadside Food</item>
+        <item>Lucky Sandwich</item>
+        <item>The Irish House</item>
+        <item>Sernya</item>
+        <item>Raju Chinese</item>
+        <item>Narayan Snack</item>
+        <item>Wok This Way</item>
+        <item>Fire Bowl</item>
+        <item>Pronto</item>
+        <item>Shree Siddhivinayak</item>
+        <item>Aram</item>
+        <item>Prakash Dughdha</item>
+        <item>Prithvi Cafe</item>
+        <item>Manjeet Chole</item>
+        <item>Spice Klub</item>
+        <item>Aaram</item>
+        <item>Aaram</item>
+        <item>Anand Vada Pav</item>
+        <item>Punjab Sweet</item>
+        <item>Jain Sweet</item>
+        <item>Matunga Dabeli</item>
+        <item>Saurashtra</item>
+        <item>Chai Pe Charcha</item>
+        <item>Guru Kripa</item>
+        <item>Sharma Bhelpuri</item>
+        <item>Gupta Chat</item>
+        <item>Kunj Vihar</item>
+        <item>Guru Kripa</item>
+        <item>Bikanervala</item>
+        <item>Narayan Dosa</item>
+        <item>Cafe Madras</item>
+        <item>Cafe Madras</item>
+        <item>Sharada Bhavan</item>
+        <item>Cafe Madras</item>
+        <item>Vinay Health Home</item>
+        <item>Aaswad</item>
+        <item>Sigree Global</item>
+        <item>Tip Top Farsan</item>
+        <item>Sandesh</item>
+        <item>Honey Gulab Jamun</item>
+        <item>K. Rustom</item>
+        <item>Shahi Durbar</item>
+        <item>Badshah</item>
+        <item>Lassi Te Paronnthe</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="s_four">
+        <item>Taj Mahal Tea</item>
+        <item>Blue Tokai</item>
+        <item>Gustoso</item>
+        <item>Little Italy</item>
+        <item>Roti N</item>
+        <item>Jay Sandwich</item>
+        <item>Woodside Inn</item>
+        <item>Appetite Momos</item>
+        <item>Peco Peco</item>
+        <item>Hitchki</item>
+        <item>Fat Five Monks</item>
+        <item>Mainland China</item>
+        <item>Chilly N Onion</item>
+        <item>Amar Juice Center</item>
+        <item>Vinay Health Home</item>
+        <item>Gokhale Upahaar</item>
+        <item>Khasiyat</item>
+        <item>Shree Chole</item>
+        <item>Pratap Da Dhaba</item>
+        <item>Kutumbsakhi</item>
+        <item>Aaswad</item>
+        <item>Graduate Vada Pav</item>
+        <item>Soam</item>
+        <item>Delhi Highway</item>
+        <item>Dilkhush Dabeli</item>
+        <item>Rajubhai Dhokla</item>
+        <item>D. Damodar Mithai</item>
+        <item>Jhama Sweets</item>
+        <item>Vithal\'s</item>
+        <item>Kunj Vihar</item>
+        <item>Kailash Parbat</item>
+        <item>Kailash Parbat</item>
+        <item>Khau Gali</item>
+        <item>Cafe Madras</item>
+        <item>Ram Ashraya</item>
+        <item>Sharada Bhavan</item>
+        <item>Arya Bhawan</item>
+        <item>Sharda Bhavan</item>
+        <item>Aaswad</item>
+        <item>Adarsh Mithai</item>
+        <item>The Indian Affair</item>
+        <item>J.J. Jalebi</item>
+        <item>Brijwasi Sweets</item>
+        <item>Champaji</item>
+        <item>Where\'s My Cone</item>
+        <item>Himalaya</item>
+        <item>Shalimar Cool Point</item>
+        <item>Parsi Dairy Farm</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="s_five">
+        <item>Chai Pe Charcha</item>
+        <item>Garde Manger Cafe</item>
+        <item>Pizza Express</item>
+        <item>Salt Water Cafe</item>
+        <item>Move N Pick</item>
+        <item>K3 Snacks</item>
+        <item>Howra</item>
+        <item>Bhukka Sher</item>
+        <item>Slurp N Burp</item>
+        <item>Dynasty</item>
+        <item>Hakka Express</item>
+        <item>Hearsch Bakery</item>
+        <item>Oven Fresh</item>
+        <item>Shabri</item>
+        <item>New Anand Bhavan</item>
+        <item>Girgaon Katta</item>
+        <item>Paratha Mantra</item>
+        <item>VIG Refreshments</item>
+        <item>Tipsy Terrace</item>
+        <item>Vinay Health Home</item>
+        <item>Prakash Shakahari</item>
+        <item>Parleshwar</item>
+        <item>B Merwan</item>
+        <item>Elco</item>
+        <item>Joshi\'s Dabeli</item>
+        <item>Gaurav Sweets</item>
+        <item>Ashok Vada Pav</item>
+        <item>Punjab Sweet</item>
+        <item>Elco</item>
+        <item>Sai Veg World</item>
+        <item>Jalram Snacks</item>
+        <item>Cream Centre</item>
+        <item>Ram Ashraya</item>
+        <item>Nandu Dosa</item>
+        <item>Arya Bhavan</item>
+        <item>Dakshinayan</item>
+        <item>Dakshinayan</item>
+        <item>Arya Bhavan</item>
+        <item>Mi Marathi</item>
+        <item>Panshikar</item>
+        <item>Taste Of Punjab</item>
+        <item>Hiralal Bhajiawala</item>
+        <item>Bhaishankar</item>
+        <item>MM Mithaiwala</item>
+        <item>Apsara Icecream</item>
+        <item>Gokul Icecream</item>
+        <item>Haji Ali Juice</item>
+        <item>Oye Teri</item>
+
+
+    </string-array>
+
+</resources>

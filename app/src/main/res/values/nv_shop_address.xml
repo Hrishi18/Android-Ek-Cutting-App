@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nv_s_address_one">
+        <item>,Jogeshwari</item>
+        <item>,Dadar</item>
+        <item>,Andheri</item>
+        <item>,Vile Parle</item>
+        <item>,Bandra</item>
+        <item>,Dadar</item>
+        <item>,Malad</item>
+        <item>,Vikroli</item>
+        <item>,Pali Hill</item>
+        <item>,Kandivali</item>
+        <item>,Bandra</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+
+    </string-array>
+
+    <string-array name="nv_s_address_two">
+        <item>,M.O.</item>
+        <item>,Fort</item>
+        <item>,Dadar</item>
+        <item>,BKC</item>
+        <item>,Bandra</item>
+        <item>,BKC</item>
+        <item>,M.O.</item>
+        <item>,Powai</item>
+        <item>,Andheri</item>
+        <item>,Andheri</item>
+        <item>,Grant Road</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+    </string-array>
+
+    <string-array name="nv_s_address_three">
+        <item>,Bandra</item>
+        <item>,Bandra</item>
+        <item>,M.O.</item>
+        <item>,Malad</item>
+        <item>,Lower Parel</item>
+        <item>,Bandra</item>
+        <item>,Prabhadevi</item>
+        <item>,Thane</item>
+        <item>,Andheri</item>
+        <item>,King\'s Circle</item>
+        <item>,M.O.</item>
+        <item>,Fort</item>
+        <item>,M.O.</item>
+    </string-array>
+
+    <string-array name="nv_s_address_four">
+        <item>,Byculla</item>
+        <item>,Bandra</item>
+        <item>,M.O.</item>
+        <item>,Andheri</item>
+        <item>,M.O.</item>
+        <item>,Khar</item>
+        <item>,Kharghar</item>
+        <item>,Mira Road</item>
+        <item>,GTB Nagar</item>
+        <item>,Goregaon</item>
+        <item>,Mahim</item>
+        <item>,Dadar</item>
+        <item>,Bandra</item>
+    </string-array>
+
+    <string-array name="nv_s_address_five">
+        <item>,Tardeo</item>
+        <item>,Vile Parle</item>
+        <item>,M.O.</item>
+        <item>,Andheri</item>
+        <item>,Vasai</item>
+        <item>,Bandra</item>
+        <item>,Andheri</item>
+        <item>,Andheri</item>
+        <item>,Colaba</item>
+        <item>,Jogeshwari</item>
+        <item>,Pali Hill</item>
+        <item>,Fort</item>
+        <item>,Lower Parel</item>
+    </string-array>
+
+</resources>

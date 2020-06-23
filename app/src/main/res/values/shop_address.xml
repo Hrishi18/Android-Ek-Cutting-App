@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="s_address_one">
+
+        <item>,Mumbai Central</item>
+        <item>,Fort</item>
+        <item>,Churchgate</item>
+        <item>,Dadar</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Lower Parel</item>
+        <item>,Dadar</item>
+        <item>,Lower Parel</item>
+        <item>,Goregaon</item>
+        <item>,M.O.</item>
+        <item>,Bandra</item>
+        <item>,M.O.</item>
+        <item>,Tardeo</item>
+        <item>,M.O.</item>
+        <item>,Dadar</item>
+        <item>,M.O.</item>
+        <item>,Sion</item>
+        <item>,Girgaon</item>
+        <item>,Vile Parle</item>
+        <item>,Borivali</item>
+        <item>,Dadar</item>
+        <item>,Sion</item>
+        <item>,M.O.</item>
+        <item>,Andheri</item>
+        <item>,Worli</item>
+        <item>,M.O.</item>
+        <item>,Bandra</item>
+        <item>,Santacruz</item>
+        <item>,Sion</item>
+        <item>,Santacruz</item>
+        <item>,Juhu</item>
+        <item>,Khar</item>
+        <item>,Vile Parle</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Matunga</item>
+        <item>,M.O.</item>
+        <item>,Fort</item>
+        <item>,Prabhadevi</item>
+        <item>,Powai</item>
+        <item>,Borivali</item>
+        <item>,Lower Parel</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Mahim</item>
+        <item>,Chembur</item>
+
+
+
+
+
+
+    </string-array>
+
+    <string-array name="s_address_two">
+        <item>,M.O.</item>
+        <item>,Juhu</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Breach Candy</item>
+        <item>,M.O.</item>
+        <item>,Khar</item>
+        <item>,M.O.</item>
+        <item>,Bandra</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Powai</item>
+        <item>,Fort</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,M.O.</item>
+        <item>,Sion</item>
+        <item>,M.O.</item>
+        <item>,Dadar</item>
+        <item>,Dadar</item>
+        <item>,Fort</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Andheri</item>
+        <item>,Girgaon</item>
+        <item>,Vile Parle</item>
+        <item>,M.O.</item>
+        <item>,Girgaon</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Vile Parle</item>
+        <item>,Andheri</item>
+        <item>,Matunga</item>
+        <item>,M.O.</item>
+        <item>,Matunga</item>
+        <item>,Matunga</item>
+        <item>,Matunga</item>
+        <item>,M.O.</item>
+        <item>,Khar</item>
+        <item>,Sion</item>
+        <item>,Girgaon</item>
+        <item>,M.O.</item>
+        <item>,Santacruz</item>
+        <item>,Ghatkopar</item>
+        <item>,Girgaon</item>
+        <item>,M.O.</item>
+        <item>,Dadar</item>
+
+
+
+    </string-array>
+
+    <string-array name="s_address_three">
+        <item>,Malad</item>
+        <item>,Andheri</item>
+        <item>,M.O.</item>
+        <item>,Juhu</item>
+        <item>,Nerul</item>
+        <item>,Vile Parle</item>
+        <item>,M.O.</item>
+        <item>,Andheri</item>
+        <item>,Goregaon</item>
+        <item>,Andheri</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Vashi</item>
+        <item>,Juhu</item>
+        <item>,Fort</item>
+        <item>,Girgaon</item>
+        <item>,Juhu</item>
+        <item>,Sion</item>
+        <item>,Lower Parel</item>
+        <item>,Fort</item>
+        <item>,Fort</item>
+        <item>,Vile Parle</item>
+        <item>,Bandra</item>
+        <item>,M.O.</item>
+        <item>,Matunga</item>
+        <item>,Vile Parle</item>
+        <item>,M.O.</item>
+        <item>,Sion</item>
+        <item>,Vile Parle</item>
+        <item>,Matunga</item>
+        <item>,M.O.</item>
+        <item>,Sion</item>
+        <item>,Vashi</item>
+        <item>,Charni Road</item>
+        <item>,Maunga</item>
+        <item>,Matunga</item>
+        <item>,Matunga</item>
+        <item>,Matunga</item>
+        <item>,Charni Road</item>
+        <item>,Dadar</item>
+        <item>,M.O.</item>
+        <item>,Ghatkopar</item>
+        <item>,Matunga</item>
+        <item>,Dombivali</item>
+        <item>,Churchgate</item>
+        <item>,Bandra</item>
+        <item>,Kalbadevi</item>
+        <item>,Khar</item>
+
+    </string-array>
+
+    <string-array name="s_address_four">
+        <item>,Bandra</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Santacruz</item>
+        <item>,Ulhasnagar</item>
+        <item>,Khar</item>
+        <item>,M.O.</item>
+        <item>,Thane</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Jogeshwari</item>
+        <item>,Vile Parle</item>
+        <item>,Charni Road</item>
+        <item>,Thane</item>
+        <item>,Vile Parle</item>
+        <item>,Mira Road</item>
+        <item>,Andheri</item>
+        <item>,Nariman Point</item>
+        <item>,Dadar</item>
+        <item>,Byculla</item>
+        <item>,Girgaon</item>
+        <item>,Andheri</item>
+        <item>,Vile Parle</item>
+        <item>,Kandivali</item>
+        <item>,Dadar</item>
+        <item>,Sion</item>
+        <item>,Fort</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Ghatkopar</item>
+        <item>,Matunga</item>
+        <item>,Matunga</item>
+        <item>,Matunga</item>
+        <item>,M.O.</item>
+        <item>,Matunga</item>
+        <item>,Dadar</item>
+        <item>,Grant Road</item>
+        <item>,Dahisar</item>
+        <item>,M.O.</item>
+        <item>,Malad</item>
+        <item>,Kalbadevi</item>
+        <item>,Juhu</item>
+        <item>,Sion</item>
+        <item>,Girgaon</item>
+        <item>,M.O.</item>
+
+    </string-array>
+
+    <string-array name="s_address_five">
+        <item>,M.O.</item>
+        <item>,Vile Parle</item>
+        <item>,M.O.</item>
+        <item>,Bandra</item>
+        <item>,Dadar</item>
+        <item>,Powai</item>
+        <item>,M.O.</item>
+        <item>,Andheri</item>
+        <item>,Borivali</item>
+        <item>,Santacruz</item>
+        <item>,Powai</item>
+        <item>,Bandra</item>
+        <item>,Dadar</item>
+        <item>,Santacruz</item>
+        <item>,Byculla</item>
+        <item>,Borivali</item>
+        <item>,Fort</item>
+        <item>,Chembur</item>
+        <item>,Goregaon</item>
+        <item>,Charni Road</item>
+        <item>,Dadar</item>
+        <item>,Vile Parle</item>
+        <item>,Grant Road</item>
+        <item>,Bandra</item>
+        <item>,Mulund</item>
+        <item>,M.O.</item>
+        <item>,Dadar</item>
+        <item>,Bandra</item>
+        <item>,Bandra</item>
+        <item>,Goregaon</item>
+        <item>,Mulund</item>
+        <item>,Goregaon</item>
+        <item>,Matunga</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,M.O.</item>
+        <item>,Vile Parle</item>
+        <item>,Dadar</item>
+        <item>,Bandra</item>
+        <item>,Charni Road</item>
+        <item>,Kalbadevi</item>
+        <item>,Malad</item>
+        <item>,M.O.</item>
+        <item>,Santacruz</item>
+        <item>,Mahalakshmi</item>
+        <item>,M.O.</item>
+
+
+
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nv_key_id_one">
+        <item>250</item>
+        <item>251</item>
+        <item>252</item>
+        <item>253</item>
+        <item>254</item>
+        <item>255</item>
+        <item>256</item>
+        <item>257</item>
+        <item>258</item>
+        <item>259</item>
+        <item>260</item>
+        <item>261</item>
+        <item>262</item>
+    </string-array>
+    <string-array name="nv_key_id_two">
+        <item>270</item>
+        <item>271</item>
+        <item>272</item>
+        <item>273</item>
+        <item>274</item>
+        <item>275</item>
+        <item>276</item>
+        <item>277</item>
+        <item>278</item>
+        <item>279</item>
+        <item>280</item>
+        <item>281</item>
+        <item>282</item>
+    </string-array>
+    <string-array name="nv_key_id_three">
+        <item>290</item>
+        <item>291</item>
+        <item>292</item>
+        <item>293</item>
+        <item>294</item>
+        <item>295</item>
+        <item>296</item>
+        <item>297</item>
+        <item>298</item>
+        <item>299</item>
+        <item>300</item>
+        <item>301</item>
+        <item>302</item>
+    </string-array>
+    <string-array name="nv_key_id_four">
+        <item>310</item>
+        <item>311</item>
+        <item>312</item>
+        <item>313</item>
+        <item>314</item>
+        <item>315</item>
+        <item>316</item>
+        <item>317</item>
+        <item>318</item>
+        <item>319</item>
+        <item>320</item>
+        <item>321</item>
+        <item>322</item>
+    </string-array>
+    <string-array name="nv_key_id_five">
+        <item>330</item>
+        <item>331</item>
+        <item>332</item>
+        <item>333</item>
+        <item>334</item>
+        <item>335</item>
+        <item>336</item>
+        <item>337</item>
+        <item>338</item>
+        <item>339</item>
+        <item>340</item>
+        <item>341</item>
+        <item>342</item>
+    </string-array>
+</resources>

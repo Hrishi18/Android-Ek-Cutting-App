@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nv_s_link_one">
+        <item>https://www.google.com/maps/place/Jaffer+Bhai\'s+Delhi+Darbar+Restaurant+%26+Takeaway/@19.1374466,72.8437943,17z/data=!4m7!3m6!1s0x3be7b62dda2bedaf:0x855ff22066eaa539!8m2!3d19.1374415!4d72.845983!9m1!1b1</item>
+        <item>https://www.google.com/maps/place/Gomantak+Boarding+House/@19.0233126,72.8399834,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cedaf778daa7:0xc894a46184da810f!8m2!3d19.0233075!4d72.8421721</item>
+        <item>https://www.google.com/maps/place/Goila+Butter+Chicken/@19.1275871,72.8269143,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7b620141455a9:0x896ce1a2d7e4dea3!8m2!3d19.127582!4d72.829103</item>
+        <item>https://www.google.com/maps/place/Quarter+Pillar/@19.0953921,72.8489072,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c9b2b42b52cf:0xc560894d080a27c2!8m2!3d19.095387!4d72.8510959</item>
+        <item>https://www.google.com/maps/place/Pal\'s+Fish+Corner/@19.0651296,72.8289717,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c913a1ad24b9:0xe40b6c138b71652f!8m2!3d19.0651245!4d72.8311604</item>
+        <item>https://www.google.com/maps/place/Home+Chef+-+all+day+dining/@19.0241596,72.8354753,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf1e64d280ad:0xda00bc0af6da8f7e!8m2!3d19.0241545!4d72.837664</item>
+        <item>https://www.google.com/maps/place/New+Sernyaa+Tibetan+Chinese+Kitchen/@19.1793768,72.8348611,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7b6f0d68c40cf:0x4087f1fa7cb5a4d9!8m2!3d19.1793717!4d72.8370498</item>
+        <item>https://www.google.com/maps/place/Hotel+Malvan+Samudra/@19.1113869,72.9243764,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c7be3ef65667:0xe968d335bf852bcc!8m2!3d19.1113818!4d72.9265651</item>
+        <item>https://www.google.com/maps/place/Carter%E2%80%99s+Blue+Restaurant/@19.0705293,72.8205156,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c97236ea98a7:0xb3dd75aaac588b4f!8m2!3d19.0705242!4d72.8227043</item>
+        <item>https://www.google.com/maps/place/Qutuz+Irani+Cafe/@19.201469,72.8260022,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7b6c7568261bf:0x2d4038cf04011c1c!8m2!3d19.2014639!4d72.8281909</item>
+        <item>https://www.google.com/maps/place/Good+Luck+Restaurant/@19.0517423,72.8218586,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c9412fc7fa55:0x2b03806fdec96c70!8m2!3d19.0517372!4d72.8240473</item>
+        <item>https://www.google.com/maps/place/Hotel+Sindhudurg/@19.0230793,72.8389541,17z/data=!3m1!4b1!4m8!3m7!1s0x3be7cedab31dcecb:0x153a61230b52f91f!5m2!4m1!1i2!8m2!3d19.0230742!4d72.8411428</item>
+        <item>https://www.google.com/maps/place/Chaitanya+Hotel/@19.0180953,72.8306226,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cec6b0c31041:0xc95d378d581d395f!8m2!3d19.0180902!4d72.8328113</item>
+
+    </string-array>
+    <string-array name="nv_s_link_two">
+        <item>https://www.google.com/maps/search/persian+darbar/@19.0182494,72.7627703,12z/data=!3m1!4b1</item>
+        <item>https://www.google.com/maps/place/Pradeep+Gomantak+Bhojanalay/@18.9347669,72.8318985,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7d1db8362817f:0xf306b8a1a3d77315!8m2!3d18.9347618!4d72.8340872</item>
+        <item>https://www.google.com/maps/place/Pritam+Da+Dhaba/@19.016743,72.8442166,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cede90023c77:0x3c0ae5a47feb8034!8m2!3d19.0167379!4d72.8464053</item>
+        <item>https://www.google.com/maps/place/BKC+DIVE./@19.0721903,72.8681325,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c8edf7a1e495:0xea1c6de018c9d6ae!8m2!3d19.0721852!4d72.8703212</item>
+        <item>https://www.google.com/maps/place/Hearsch+%26+Co/@19.0551297,72.8247937,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c9172cc85cf9:0x154afdd41c36428d!8m2!3d19.0551246!4d72.8269824</item>
+        <item>https://www.google.com/maps/place/BKC+DIVE./@19.0721903,72.8681325,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c8edf7a1e495:0xea1c6de018c9d6ae!8m2!3d19.0721852!4d72.8703212</item>
+        <item>https://www.google.com/maps/search/The+Appitite+Momos/@19.1937316,72.8858437,12z/data=!3m1!4b1</item>
+        <item>https://www.google.com/maps/place/Soul+Curry/@19.1166166,72.9001779,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c7e3d0c2e0d5:0x4db525b70d2f967f!8m2!3d19.1166115!4d72.9023666</item>
+        <item>https://www.google.com/maps/place/Shawarma+Factory/@19.1245171,72.8381833,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c9d7785f175f:0x94bf6e50be26b61f!8m2!3d19.124512!4d72.840372</item>
+        <item>https://www.google.com/maps/place/Mohd+Nasir+Cooper+Wala+Pav+Bhaji+%26+Bhurji+Centre./@19.1128806,72.8355667,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c9c5a765d3d7:0x28669b8c74d69c27!8m2!3d19.1128755!4d72.8377554</item>
+        <item>https://www.google.com/maps/place/Kyani/@18.9440366,72.8265386,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7ce6cde410629:0x1f92f4f701c5053d!8m2!3d18.9440315!4d72.8287273</item>
+        <item>https://www.google.com/maps/search/gajalee/@19.0619247,72.7731419,12z/data=!3m1!4b1</item>
+        <item>https://www.google.com/maps/search/gajalee/@19.0619247,72.7731419,12z/data=!3m1!4b1</item>
+    </string-array>
+    <string-array name="nv_s_link_three">
+        <item>https://www.google.com/maps/place/Lucky+Restaurant/@19.0538973,72.835526,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7b6554fbfb889:0xaf4c3778ab35d3f9!8m2!3d19.0538922!4d72.8377147</item>
+        <item>https://www.google.com/maps/place/Highway+Gomantak/@19.0566718,72.8447557,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c921baaaaaab:0x6a1d06beadfb8656!8m2!3d19.0566667!4d72.8469444</item>
+        <item>https://www.google.com/maps/search/butter+chicken+factory/@19.0567546,72.8119247,13z/data=!3m1!4b1</item>
+        <item>https://www.google.com/maps/place/Uncle\'s+Kitchen/@19.1939904,72.8352989,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7b701648ae499:0x47abf6b0a70b7024!8m2!3d19.1939853!4d72.8374876</item>
+        <item>https://www.google.com/maps/place/Kathi+Kabab+Roll/@18.9965712,72.8246137,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7ce8cdc101ebf:0xd9e2f4c26ac739b6!8m2!3d18.9965661!4d72.8268024</item>
+        <item>https://www.google.com/maps/place/Kaitlyn\'s+Beer+Garden/@19.0546996,72.8260676,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c93f8183b88f:0xddca28ca014a8d54!8m2!3d19.0546945!4d72.8282563</item>
+        <item>https://www.google.com/maps/place/Dev\'s+Momo+Hut/@19.0187815,72.830929,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7ce9a4834c105:0x770baf1919853c39!8m2!3d19.0187764!4d72.8331177</item>
+        <item>https://www.google.com/maps/place/Malvan+Tadka+Louis+Wadi,+Thane/@19.1968935,72.9598487,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7b9d2d4f56bed:0x4f96ca1879360691!8m2!3d19.1968884!4d72.9620374</item>
+        <item>https://www.google.com/maps/place/Stuffed+Central+Kitchen/@19.1126505,72.8885706,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c80c5a6b4707:0x57c06a30d30dadea!8m2!3d19.1126454!4d72.8907593</item>
+        <item>https://www.google.com/maps/place/Koolar+%26+Co/@19.026111,72.8528329,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf28797aa913:0x58f76c2a5e0731f5!8m2!3d19.0261059!4d72.8550216</item>
+        <item>https://www.google.com/maps/search/the+nutcracker/@19.0261939,72.8200019,13z/data=!3m1!4b1</item>
+        <item>https://www.google.com/maps/place/Apoorva+restarant,+fort+mumbia+400001/@18.9318111,72.8323583,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7d1ee20ae9f27:0x7dab2661ba110cc7!8m2!3d18.931806!4d72.834547</item>
+        <item>https://www.google.com/maps/search/mahesh+lunch+home/@19.0206037,72.841086,12z/data=!3m1!4b1</item>
+    </string-array>
+    <string-array name="nv_s_link_four">
+        <item>https://www.google.com/maps/place/Noor+Mohammadi+Hotel/@18.9720147,72.8170306,15.4z/data=!4m5!3m4!1s0x3be7ce42129f390f:0xeb266da8db79ed81!8m2!3d18.9725748!4d72.8286729</item>
+        <item>https://www.google.com/maps/place/Sadichha+Restaurant/@19.0581941,72.8454313,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c921baaaaaab:0x2af425d8f5edea48!8m2!3d19.058189!4d72.84762</item>
+        <item>https://www.google.com/maps/search/punjab+grill/@19.0582769,72.8126003,13z/data=!3m1!4b1</item>
+        <item>https://www.google.com/maps/place/King+Chilli/@19.1105965,72.8509024,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c83495796da1:0x9c941faab54f8bb6!8m2!3d19.1105914!4d72.8530911</item>
+        <item>https://www.google.com/maps/search/Tibbs/@19.1106216,72.8443363,15z/data=!3m1!4b1</item>
+        <item>https://www.google.com/maps/place/3+Wise+Monkeys/@19.0705867,72.8376427,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c9d9d759a57f:0x570ef45cac4a5ba2!8m2!3d19.0705816!4d72.8398314</item>
+        <item>https://www.google.com/maps/place/UTSAV+CHOWK+FAST+FOOD+CORNER+(Top+Ten+Darjeeling+Momos)+-Original+Momos/@19.0475124,73.0643485,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c34d91b299f3:0xb1ce752e7f69941a!8m2!3d19.0475073!4d73.0665372</item>
+        <item>https://www.google.com/maps/place/Amcho+koliwado/@19.2904655,72.8610686,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7b1fa9f31bf13:0x58cfcd6c9a07d54f!8m2!3d19.2904604!4d72.8632573</item>
+        <item>https://www.google.com/maps/place/King%E2%80%99s+Shawarma/@19.0343017,72.8610658,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cf9127834f1f:0xc846d1fbd3e13876!8m2!3d19.0342966!4d72.8632545</item>
+        <item>https://www.google.com/maps/place/Thakur+Fast+food+corner/@19.1634521,72.8412695,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7b64c2acf062f:0xbde8c635f6748fa2!8m2!3d19.163447!4d72.8434582</item>
+        <item>https://www.google.com/maps/place/Cafe+Irani+Chaii/@19.0390111,72.840492,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c92dab45350f:0xceadc783769657ae!8m2!3d19.039006!4d72.8426807</item>
+        <item>https://www.google.com/maps/place/Gomantak+Boarding+House/@19.0233126,72.8399834,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7cedaf778daa7:0xc894a46184da810f!8m2!3d19.0233075!4d72.8421721</item>
+        <item>https://www.google.com/maps/place/Highway+Gomantak/@19.0566718,72.8447557,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c921baaaaaab:0x6a1d06beadfb8656!8m2!3d19.0566667!4d72.8469444</item>
+    </string-array>
+    <string-array name="nv_s_link_five">
+        <item>https://www.google.com/maps/place/Cafe+Noorani/@18.977209,72.8096376,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7ce72e2ba985f:0xe5e4d8df05283d8!8m2!3d18.9772039!4d72.8118263</item>
+        <item>https://www.google.com/maps/place/Malwani+Aswad/@19.1075387,72.845941,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c9ca50dd1467:0xf6559dcfb4897096!8m2!3d19.1075336!4d72.8481297</item>
+        <item>https://www.google.com/maps/search/Zaffran/@19.1076927,72.7780887,12z/data=!3m1!4b1</item>
+        <item>https://www.google.com/maps/place/Ahura+Bakery+%26+Stores/@19.1196655,72.8429986,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c9d17c9e3217:0xecb2015b19b80be8!8m2!3d19.1196604!4d72.8451873</item>
+        <item>https://www.google.com/maps/place/Venus+Bakery+%2F+Venus+Cakes+%26+Cookies/@19.3561276,72.7965359,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7ac2b7c7f38fd:0x763825b78f22ff67!8m2!3d19.3561226!4d72.7987246</item>
+        <item>https://www.google.com/maps/place/Hoppumm/@19.0602685,72.8289524,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c9b0799e154d:0x36ae81e0af7fdf24!8m2!3d19.0602634!4d72.8311411</item>
+        <item>https://www.google.com/maps/place/RJ\'s+Bhukkha+Sher/@19.1393336,72.8179182,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7b610e5c49e43:0xffe991388300b85b!8m2!3d19.1393285!4d72.8201069</item>
+        <item>https://www.google.com/maps/place/Food+n+Flame/@19.1084035,72.8600671,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c9318ebd9a6b:0xecb7171c323e160a!8m2!3d19.1083984!4d72.8622558</item>
+        <item>https://www.google.com/maps/place/Modern+Juice+Centre/@18.918488,72.8291614,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7d1bf1143cf8f:0x45a85713bb80b2c5!8m2!3d18.9184829!4d72.8313501</item>
+        <item>https://www.google.com/maps/place/Cafe+Gulshan+Hotel/@19.1476521,72.8410703,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7b636f9a1446f:0x88a91b8d686ae51f!8m2!3d19.147647!4d72.843259</item>
+        <item>https://www.google.com/maps/place/The+Bagel+Shop/@19.0631649,72.8227348,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c96c7e09c42f:0xecda0ef79277f502!8m2!3d19.0631598!4d72.8249235</item>
+        <item>https://www.google.com/maps/place/Trishna/@18.928675,72.8301682,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7d13c1abc5e8d:0x35306f3e0fd872bb!8m2!3d18.9286699!4d72.8323569</item>
+        <item>https://www.google.com/maps/place/Jai+Hind+Lunch+Home+Lower+Parel/@19.0021491,72.8275653,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7ce9336955555:0xd7c8e8fbd40d758d!8m2!3d19.002144!4d72.829754</item>
+    </string-array>
+</resources>

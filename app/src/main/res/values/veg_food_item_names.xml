@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="v_f_names">
+        <item>Tea</item>
+        <item>Coffee</item>
+        <item>Pizza</item>
+        <item>Pasta</item>
+        <item>Frankie</item>
+        <item>Sandwich</item>
+        <item>Burger</item>
+        <item>Momos</item>
+        <item>Gobi Manchurian</item>
+        <item>Chinese Bhel</item>
+        <item>Noodles</item>
+        <item>Fried Rice</item>
+        <item>Soup</item>
+        <item>Pav Bhaji</item>
+        <item>Misal Pav</item>
+        <item>Sabudana Vada</item>
+        <item>Paratha</item>
+        <item>Chole Bhature</item>
+        <item>Dal Khichdi</item>
+        <item>Poha</item>
+        <item>Zunka Bhakar</item>
+        <item>Vada Pav</item>
+        <item>Samosa</item>
+        <item>Raj Kachori</item>
+        <item>Dabeli</item>
+        <item>Dhokla</item>
+        <item>Pakoda</item>
+        <item>Panipuri</item>
+        <item>Bhelpuri</item>
+        <item>Dahi Puri</item>
+        <item>Sev Puri</item>
+        <item>Ragda Pattice</item>
+        <item>Dahi Vada</item>
+        <item>Dosa</item>
+        <item>Idli</item>
+        <item>Vada Sambar</item>
+        <item>Upma</item>
+        <item>Uttapa</item>
+        <item>Puran Poli</item>
+        <item>Modak</item>
+        <item>Gajar Halwa</item>
+        <item>Jalebi</item>
+        <item>Rasgulla</item>
+        <item>Gulab Jamun</item>
+        <item>Ice Cream</item>
+        <item>Kulfi</item>
+        <item>Falooda</item>
+        <item>Lassi</item>
+    </string-array>
+</resources>

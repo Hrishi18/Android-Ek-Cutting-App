@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nv_s_cost_one">
+
+        <item>Mutton Biryani</item>
+        <item>Bombil Fry</item>
+        <item>Butter Chicken</item>
+        <item>Chicken Lolipop</item>
+        <item>Fish Tikka Roll</item>
+        <item>Chicken 65</item>
+        <item>Chicken Momos</item>
+        <item>Kombdi Vade</item>
+        <item>Shawarma</item>
+        <item>Bhurji Pav</item>
+        <item>Omelette</item>
+        <item>Fish Curry</item>
+        <item>Prawn Curry</item>
+    </string-array>
+
+    <string-array name="nv_s_cost_two">
+        <item>Chicken Kepsa Biryani</item>
+        <item>Bombil Fry</item>
+        <item>Butter Chicken</item>
+        <item>Chicken Lolipop</item>
+        <item>Chicken Roti</item>
+        <item>Chicken 65</item>
+        <item>Chicken Momos</item>
+        <item>Kombdi Vade</item>
+        <item>Shawarma</item>
+        <item>Bhurji Pav</item>
+        <item>Omelette</item>
+        <item>Fish Curry</item>
+        <item>Prawn Curry</item>
+    </string-array>
+
+    <string-array name="nv_s_cost_three">
+        <item>Chicken Dum Biryani</item>
+        <item>Bombil Fry</item>
+        <item>Butter Chicken</item>
+        <item>Chicken Lolipop</item>
+        <item>Burnt Garlic Roll</item>
+        <item>Chicken 65</item>
+        <item>Chicken Momos</item>
+        <item>Kombdi Vade</item>
+        <item>Shawarma</item>
+        <item>Bhurji Pav</item>
+        <item>Omelette</item>
+        <item>Fish Curry</item>
+        <item>Prawn Curry</item>
+
+    </string-array>
+
+    <string-array name="nv_s_cost_four">
+        <item>Chicken Biryani</item>
+        <item>Bombil Fry</item>
+        <item>Butter Chicken</item>
+        <item>Chicken Lolipop</item>
+        <item>Tandoori Tadka Frankie</item>
+        <item>Chicken 65</item>
+        <item>Chicken Momos</item>
+        <item>Kombdi Vade</item>
+        <item>Shawarma</item>
+        <item>Bhurji Pav</item>
+        <item>Omelette</item>
+        <item>Fish Curry</item>
+        <item>Prawn Curry</item>
+    </string-array>
+
+    <string-array name="nv_s_cost_five">
+        <item>Chicken Tikka Biryani</item>
+        <item>Bombil Fry</item>
+        <item>Butter Chicken</item>
+        <item>Chicken Lolipop</item>
+        <item>Mutton Roll</item>
+        <item>Chicken 65</item>
+        <item>Chicken Momos</item>
+        <item>Kombdi Vade</item>
+        <item>Shawarma</item>
+        <item>Bhurji Pav</item>
+        <item>Omelette</item>
+        <item>Fish Curry</item>
+        <item>Prawn Curry</item>
+    </string-array>
+</resources>

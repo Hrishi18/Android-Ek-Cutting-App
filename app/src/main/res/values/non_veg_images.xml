@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="n_v_f_images">
+        <item>@drawable/biryani</item>
+        <item>@drawable/bombilfry</item>
+        <item>@drawable/butterchicken</item>
+        <item>@drawable/chickenlollipop</item>
+        <item>@drawable/chickenroll</item>
+        <item>@drawable/chickensixtyfive</item>
+        <item>@drawable/chickenmomos</item>
+        <item>@drawable/kombdivade</item>
+        <item>@drawable/shawarma</item>
+        <item>@drawable/eggbhurjji</item>
+        <item>@drawable/omlette</item>
+        <item>@drawable/fishcurry</item>
+        <item>@drawable/prawncurry</item>
+
+
+
+
+    </integer-array>
+</resources>
